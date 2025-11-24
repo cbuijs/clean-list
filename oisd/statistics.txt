@@ -1,0 +1,71 @@
+==================================================
+          MAKE-LIST ANALYTICS REPORT
+==================================================
+
+### Top 20 Domains (Most Frequent in Sources) ###
+    2 | 00sexus.com
+    2 | 00webcams.com
+    2 | 03e.info
+    2 | 03p.info
+    2 | 06653176.3cdfee8c7de5b45e217124db.workers.dev
+    2 | 100023.live173.com
+    2 | 10022020yest31-service100201rus2510022020.ru
+    2 | 105vibe.com
+    2 | 11163929-2268.c2.adprotect.net
+    2 | 11163929-2410.c2.adprotect.net
+    2 | 11163929-3212.c2.adprotect.net
+    2 | 11163929-3367.c2.adprotect.net
+    2 | 11163929-3482.c2.adprotect.net
+    2 | 11164531-19021001.c2.adprotect.net
+    2 | 121phonesex.co.uk
+    2 | 123any.com
+    2 | 123musicblend.blogspot.com
+    2 | 12cams.be
+    2 | 1337x.org
+    2 | 18freeporn.com
+
+### Top 20 Keyword Labels ###
+ 59522 | blogspot
+ 12370 | pages
+ 10795 | com
+  5508 | free
+  3312 | weebly
+  3210 | smetrics
+  2427 | web
+  2058 | firebaseapp
+  1900 | actonservice
+  1785 | 2o7
+  1647 | marketing
+  1574 | cloudfront
+  1555 | over-blog
+  1532 | gtm
+  1346 | 112
+  1241 | ply
+  1159 | analytics
+  1087 | stats
+  1066 | api
+  1055 | ipfs
+
+### Top 20 Effective 2LDs (Root Domains) ###
+  5461 | free.fr
+  3312 | weebly.com
+  1900 | actonservice.com
+  1784 | 2o7.net
+  1518 | over-blog.com
+  1223 | gl.at.ply.gg
+  1046 | ipfs.dweb.link
+   583 | webcindario.com
+   451 | itch.io
+   376 | zendesk.com
+   307 | futureisready.com
+   306 | myvzw.com
+   286 | neocities.org
+   264 | wordpress.com
+   246 | qq.com
+   244 | godaddysites.com
+   205 | start.page
+   194 | beget.tech
+   177 | telekom.hu
+   164 | gemius.pl
+
+Total Unique Blocked Domains: 685039
