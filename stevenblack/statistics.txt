@@ -1,0 +1,71 @@
+==================================================
+          MAKE-LIST ANALYTICS REPORT
+==================================================
+
+### Top 20 Domains (Most Frequent in Sources) ###
+    4 | theync.com
+    3 | amp.xhamster.desi
+    3 | i.xozilla.com
+    3 | mxtube.net
+    3 | new-porn.video
+    3 | www.redwap2.com
+    3 | www.sopornvideos.com
+    3 | www.xozilla.com
+    3 | www.xxxbule.com
+    3 | www.xxxhdvideo.mobi
+    3 | www.clips4sale.com
+    3 | www.japaneseporn.xxx
+    3 | www.redgifs.com
+    3 | rapelust.com
+    3 | bestgore.com
+    3 | horriblevideos.com
+    3 | leakreality.com
+    3 | sickjunk.com
+    3 | kaotic.com
+    3 | 85tube.com
+
+### Top 20 Keyword Labels ###
+ 49808 | www
+  1726 | 2o7
+  1431 | ads
+  1347 | ahcdn
+  1296 | 112
+  1105 | com
+   872 | cdn
+   796 | vinted
+   752 | intellitxt
+   533 | api
+   427 | 122
+   405 | ero-advertising
+   377 | static
+   336 | analytics
+   318 | smetrics
+   303 | img
+   292 | hitbox
+   272 | olx
+   267 | adserver
+   266 | stats
+
+### Top 20 Effective 2LDs (Root Domains) ###
+  1726 | 2o7.net
+  1344 | ahcdn.com
+   752 | intellitxt.com
+   405 | ero-advertising.com
+   291 | hitbox.com
+   198 | p2l.info
+   165 | booru.org
+   154 | casalemedia.com
+   147 | zproxy.org
+   143 | mtree.com
+   127 | marketo.com
+   125 | oewabox.at
+   122 | doubleclick.net
+   121 | dditscdn.com
+   111 | criteo.com
+   109 | omtrdc.net
+   109 | tlsext.com
+   103 | checkm8.com
+   102 | is-best.net
+    98 | xiti.com
+
+Total Unique Blocked Domains: 180635
