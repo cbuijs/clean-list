@@ -422,7 +422,7 @@ adrecover.com
 adroll.com
 adrta.com
 ads-flipp.com # [ADS:40%]
-ads-twitter.com # [SOCIAL:40%]
+ads-twitter.com # [ADS:40%]
 adsafeprotected.com
 adsappier.com
 adsbynimbus.com
@@ -527,7 +527,7 @@ altmetric.com
 amaporn.com
 amateri.com
 amateur8.com
-amazon-ads-attestation.com # [SHOPPING:40%]
+amazon-ads-attestation.com # [ADS:40%]
 ambientdsp.com
 amenworld.com
 amillionads.com

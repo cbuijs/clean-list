@@ -62,8 +62,8 @@
    145 | baidu.com
    119 | marketo.com
    106 | perimeterx.net
-   104 | heytapdl.com
    104 | gemius.pl
+   104 | heytapdl.com
    102 | miui.com
     89 | live.com
     88 | fwmrm.net

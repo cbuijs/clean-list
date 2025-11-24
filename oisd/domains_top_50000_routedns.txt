@@ -254,7 +254,7 @@
 .adrecover.com
 .adroll.com
 .adrta.com
-.ads-twitter.com # [ADS:40%]
+.ads-twitter.com # [SOCIAL:40%]
 .adsbynimbus.com
 .adsensecustomsearchads.com
 .adskeeper.com
@@ -338,7 +338,7 @@
 .aporntv.com
 .apornvideo.com
 .app-ads-services.com # [TECH:40%]
-.app-analytics-services.com # [ADS:40%]
+.app-analytics-services.com # [TECH:40%]
 .appannie.com
 .appbaqend.com
 .appboy.com
@@ -2641,7 +2641,7 @@
 .tns-counter.ru
 .utorria.ru
 .vihub.ru
-.xxx-chat.ru # [ADULT:40%]
+.xxx-chat.ru # [CHAT:40%]
 .yapfiles.ru
 .jav.sb
 .mydesi.sbs
