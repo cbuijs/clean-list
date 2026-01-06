@@ -1,0 +1,71 @@
+==================================================
+          MAKE-LIST ANALYTICS REPORT
+==================================================
+
+### Top 20 Domains (Most Frequent in Sources) ###
+    2 | 0--0--0-364f0c42.int.ad.smartnews.net
+    2 | 0-02.net
+    2 | 0-16.ads-dev.sportradar.com
+    2 | 0-bloghkgadv.app.salemove.com
+    2 | 0-chd.trafficjunky.com
+    2 | 0.0-02.net
+    2 | 0.0.trafficjunky.com
+    2 | 0.as.slashdot.org
+    2 | 0.as.sourceforge.net
+    2 | 0.bump.mostlyfor.com
+    2 | 0.cake.windowthink.com
+    2 | 0.cap.candidpick.com
+    2 | 0.cap.tarrybelow.com
+    2 | 0.cash.inasmuchnoisily.com
+    2 | 0.cod.followingbehold.com
+    2 | 0.content-loader.com
+    2 | 0.deed.correctlynow.com
+    2 | 0.dl.myway.com
+    2 | 0.fat.newsletterwoot.com
+    2 | 0.fb.content-loader.com
+
+### Top 20 Keyword Labels ###
+ 37757 | www
+ 14153 | appsflyersdk
+ 13649 | cdn
+ 10974 | api
+  8493 | highrevenuegate
+  7355 | forter
+  7327 | com
+  6354 | doubleclick
+  6272 | fls
+  5517 | sentry
+  5517 | amazonaws
+  5222 | ingest
+  5192 | googlesyndication
+  5182 | safeframe
+  4710 | casalemedia
+  4609 | prod
+  4184 | app
+  4007 | toprevenuegate
+  3240 | profitablecpmgate
+  3121 | online-metrix
+
+### Top 20 Effective 2LDs (Root Domains) ###
+ 14153 | appsflyersdk.com
+  7355 | forter.com
+  6329 | doubleclick.net
+  5448 | highrevenuegate.com
+  5190 | googlesyndication.com
+  5089 | sentry.io
+  4703 | casalemedia.com
+  4007 | toprevenuegate.com
+  3121 | online-metrix.net
+  2971 | actonservice.com
+  2631 | profitableratecpm.com
+  2587 | fbcdn.net
+  2289 | highcpmrevenuegate.com
+  2051 | omtrdc.net
+  1982 | highcpmrevenuenetwork.com
+  1843 | qualtrics.com
+  1753 | slgnt.eu
+  1726 | profitablegatecpm.com
+  1654 | emltrk.com
+  1639 | attn.tv
+
+Total Unique Blocked Domains: 1362088

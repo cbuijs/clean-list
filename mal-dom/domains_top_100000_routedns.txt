@@ -1,0 +1,2815 @@
+# Top 100000 Most Popular
+.emirates.net.ae # [MALWARE:90%]
+.crane.aero # [SCAM:90%]
+.hdrezka.ag
+.rezka.ag
+.yesmovies.ag
+.beacons.ai
+.google.com.ai # [SEARCH:40%]
+.gmgn.ai # [SCAM:90%]
+.onestart.ai # [MALWARE:90%]
+.sider.ai # [GOVERNMENT:90%]
+.google.al # [SEARCH:40%]
+.bittorrent.am # [PIRACY:90%]
+.mamul.am
+.cash.app # [GAMBLING:40%]
+.gamestorrents.app # [SCAM:90%]
+.imoim.app
+.istreameast.app
+.saraf.app # [SCAM:90%]
+.snapsave.app # [SCAM:90%]
+.torbox.app
+.mercadolibre.com.ar
+.unsa.edu.ar # [EDUCATION:40%]
+.ad-m.asia # [MALWARE:90%]
+.cosmicscans.asia
+.finanz.at
+.commbank.com.au # [SCAM:90%]
+.coolrom.com.au
+.neto.com.au # [SCAM:90%]
+.tabtouch.com.au # [SCAM:90%]
+.lidarr.audio
+.signin.aws # [SCAM:90%]
+.watchseries.bar
+.carnival.com.bd
+.bithumen.be
+.jetengine.be # [MALWARE:90%]
+.gg.bet
+.stake.bet
+.google.bf # [SEARCH:40%]
+.grabo.bg # [MALWARE:90%]
+.google.com.bh # [SEARCH:40%]
+.aj2723.bid # WARN:ExcessiveDigits
+.pubds.bid
+.allmy.bio # [GOVERNMENT:90%]
+.apptuts.bio # [MALWARE:90%]
+.linklist.bio
+.linkr.bio
+.netmirror.bio
+.superprofile.bio # [GOVERNMENT:90%]
+.tap.bio
+.acwjcqqv.biz
+.apzzls.biz
+.assistir.biz
+.banwyw.biz
+.bghjpy.biz
+.brsua.biz
+.bumxkqgxu.biz
+.bzkysubds.biz
+.cikivjto.biz # [SCAM:90%]
+.cjvgcl.biz
+.cpclnad.biz
+.ctdtgwag.biz
+.cvgrf.biz
+.damcprvgv.biz
+.deoci.biz
+.dlynankz.biz
+.dwrqljrr.biz
+.dyjdrp.biz
+.ecxbwt.biz
+.esuzf.biz
+.eufxebus.biz # [SCAM:90%]
+.ftp1.biz # [MALWARE:90%]
+.ftxlah.biz
+.fwiwk.biz
+.gcedd.biz
+.giliplg.biz
+.gjogvvpsf.biz
+.gnqgo.biz
+.gvijgjwkh.biz
+.gytujflc.biz
+.hagujcj.biz
+.hehckyov.biz
+.hlzfuyy.biz
+.ifsaia.biz
+.ihcnogskt.biz
+.ijnmvqa.biz
+.iuzpxe.biz
+.jdhhbs.biz
+.jhvzpcfg.biz
+.jifai.biz
+.jlqltsjvh.biz
+.jpskm.biz
+.jwkoeoqns.biz
+.kcyvxytog.biz # [SCAM:90%]
+.kinogo.biz
+.kkqypycm.biz
+.knjghuig.biz # [SCAM:90%]
+.krnsmlmvd.biz
+.kvbjaur.biz
+.lpuegx.biz
+.lrxdmhrr.biz
+.ltpqsnu.biz
+.mgmsclkyu.biz
+.mixmarket.biz # [MALWARE:90%]
+.mnjmhp.biz
+.napws.biz # [SCAM:90%]
+.nlscndwp.biz
+.npukfztj.biz
+.nqwjmb.biz
+.nwdnxrd.biz
+.ocsvqjg.biz
+.oflybfv.biz
+.opowhhece.biz
+.oshhkdluh.biz
+.party.biz # [SCAM:90%]
+.pectx.biz
+.pgfsvwx.biz
+.przvgke.biz # [SCAM:90%]
+.ptrim.biz
+.pwlqfu.biz
+.pywolwnvd.biz
+.qaynky.biz
+.qcrsp.biz
+.qncdaagct.biz
+.qpnczch.biz
+.qvuhsaqa.biz
+.reczwga.biz
+.report1.biz # [MALWARE:90%]
+.rffxu.biz
+.rynmcq.biz
+.saytjshyf.biz
+.sctmku.biz
+.sewlqwcd.biz
+.shpwbsrw.biz
+.ssbzmoy.biz
+.sxmiywsfv.biz
+.tbjrpv.biz
+.tltxn.biz
+.tnevuluw.biz
+.trafficfactory.biz # [MALWARE:90%]
+.tt03.biz # [MALWARE:90%] WARN:ExcessiveDigits
+.tt07.biz # [MALWARE:90%] WARN:ExcessiveDigits
+.typgfhb.biz
+.uaafd.biz
+.uevrpr.biz
+.vcddkls.biz
+.vjaxhpbji.biz
+.vnvbt.biz
+.vrrazpdh.biz
+.vyome.biz
+.warkcdu.biz
+.whjovd.biz
+.wllvnzb.biz
+.wluwplyh.biz
+.xccjj.biz
+.xlfhhhm.biz
+.yauexmxk.biz
+.yhqqc.biz
+.ypituyqsq.biz
+.ytctnunms.biz
+.yunalwv.biz
+.ywffr.biz
+.znwbniskf.biz
+.zrlssa.biz
+.zyiexezl.biz
+.car.blog
+.bcp.com.bo
+.google.com.bo # [SEARCH:40%]
+.banrisul.com.br
+.bradescoprime.com.br # [MALWARE:90%]
+.brunoespiao.com.br
+.cef.com.br # [MALWARE:90%]
+.itaupersonnalite.com.br # [MALWARE:90%]
+.magazinevoce.com.br
+.tibiawiki.com.br # [SCAM:90%]
+.utua.com.br # [GOVERNMENT:90%]
+.google.co.bw # [SEARCH:40%]
+.google.by # [SEARCH:40%]
+.tut.by # [MALWARE:90%]
+.tracker.bz # [ADS:40%]
+.vlxx.bz # [MALWARE:90%]
+.zzb.bz # [MALWARE:90%]
+.akamaized.ca # [MALWARE:90%]
+.sportinglife.ca # [SCAM:90%]
+.usask.ca # [MALWARE:90%]
+.potok.cash # [SCAM:90%]
+.irwin.casino
+.24support.cc # [SCAM:90%]
+.8989c.cc # WARN:ExcessiveDigits
+.autoembed.cc
+.conta.cc # [GOVERNMENT:90%]
+.filman.cc
+.hdtoday.cc
+.hollymoviehd.cc
+.hurawatch.cc # [MALWARE:90%]
+.joyreactor.cc # [MALWARE:90%]
+.linksta.cc # [GOVERNMENT:90%]
+.lk21official.cc
+.movielair.cc
+.net20.cc
+.net51.cc
+.postimg.cc
+.romspure.cc
+.seedr.cc
+.taplink.cc
+.tnw00t.cc
+.uflix.cc
+.vk.cc # [MALWARE:90%]
+.xoilac86d.cc # [MALWARE:90%]
+.xoilac86e.cc # [MALWARE:90%]
+.multimovies.center
+.begravesimula.cfd
+.blitzwallet.cfd
+.endearmargot.cfd
+.arenabg.ch # [PIRACY:90%]
+.letemps.ch
+.levidia.ch # [MALWARE:90%]
+.zer0day.ch # [PIRACY:90%]
+.multimovies.cheap
+.mercadolibre.cl
+.tracker.cl # [ADS:40%]
+.ucv.cl # [MALWARE:90%]
+.buttingtempter.click
+.defacesirras.click
+.huleve.click
+.ldhy.click
+.vedunt.click
+.asip.cloud # [SCAM:90%]
+.fastshare.cloud
+.happymod.cloud
+.kinsta.cloud # [SCAM:90%]
+.thouvenin.cloud
+.789.club # [MALWARE:90%] WARN:ExcessiveDigits
+.androidoyun.club
+.baby-beamup.club
+.earnbitmoon.club # [SCAM:90%]
+.hit.club # [MALWARE:90%]
+.moonburrow.club
+.myporn.club # [PIRACY:90%]
+.sb99.club # WARN:ExcessiveDigits
+.google.cm # [SEARCH:40%]
+.8684.cn # [MALWARE:90%] WARN:ExcessiveDigits
+.hangzhou.com.cn # [MALWARE:90%]
+.pconline.com.cn # [MALWARE:90%]
+.crlocsp.cn # [SCAM:90%]
+.flash.cn # [MALWARE:90%]
+.cq.gov.cn # [MALWARE:90%]
+.ip.cn # [MALWARE:90%]
+.itellyou.cn # [SCAM:90%]
+.pipi.cn # [MALWARE:90%]
+.online.sh.cn # [MALWARE:90%]
+.t101.cn # WARN:ExcessiveDigits
+.ayads.co # [MALWARE:90%]
+.aylink.co # [SCAM:90%]
+.biolinky.co # [MALWARE:90%]
+.cloudflare.co
+.streamm4u.com.co
+.yt1s.com.co
+.utp.edu.co # [EDUCATION:40%]
+.fmovies.co
+.foreverpirates.co
+.fresh8.co # [MALWARE:90%]
+.goodfirms.co # [SCAM:90%]
+.bancoagrario.gov.co # [GOVERNMENT:40%]
+.huggingface.co
+.ila3.co # [MALWARE:90%]
+.kisskh.co # [MALWARE:90%]
+.linkbio.co # [GOVERNMENT:90%]
+.manylink.co
+.news-headlines.co # [NEWS:40%]
+.oxtorrent.co # [PIRACY:90%]
+.s1search.co # [MALWARE:90%]
+.search-api.co # [MALWARE:90%]
+.stackoverflow.co
+.tripadvisor.co
+.videy.co
+.wavebrowser.co # [MALWARE:90%]
+.ytricks.co
+.carr.codes
+.000webhost.com
+.000webhostapp.com
+.0123456789nonexistent.com # WARN:ExcessiveDigits
+.0i0i0i0.com # [MALWARE:90%] WARN:ExcessiveDigits
+.101m3.com # [MALWARE:90%] WARN:ExcessiveDigits
+.121bet15.com # WARN:ExcessiveDigits
+.123formbuilder.com
+.123helpme.com # [SCAM:90%]
+.141jav.com # [PIRACY:90%] WARN:ExcessiveDigits
+.16clouds.com # [SCAM:90%]
+.16mb.com # [SCAM:90%] WARN:ExcessiveDigits
+.17173.com # [MALWARE:90%] WARN:ExcessiveDigits
+.1fichier.com
+.2463april2024.com # [MALWARE:90%] WARN:ExcessiveDigits
+.2go.com # [MALWARE:90%]
+.2ix2.com # WARN:ExcessiveDigits
+.31d58c226fc5a0aa976e13ca9ecebcc8.com # WARN:ExcessiveDigits
+.33across.com # [MALWARE:90%]
+.360yield.com # [MALWARE:90%]
+.3cinteractive.com
+.3dmgame.com
+.3dvf.com
+.3lift.com # [MALWARE:90%]
+.3pkf5m0gd.com # [MALWARE:90%]
+.3ss55.com # WARN:ExcessiveDigits
+.4dq.com # [MALWARE:90%]
+.4dsply.com # [MALWARE:90%]
+.4kdownload.com
+.4pu.com # [MALWARE:90%]
+.4shared.com
+.4uvize.com # [SCAM:90%]
+.51talk.com # [MALWARE:90%]
+.54new.com # [PIRACY:90%]
+.5966sjdjh5.com # [SCAM:90%] WARN:ExcessiveDigits
+.5starhdporn.com
+.7k7k.com # [MALWARE:90%] WARN:ExcessiveDigits
+.888.com # [MALWARE:90%] WARN:ExcessiveDigits
+.8b21a945159f23b740c836eb50953818.com # WARN:ExcessiveDigits
+.914trk.com # [MALWARE:90%] WARN:ExcessiveDigits
+.9mod.com
+.a-ads.com # [MALWARE:90%]
+.a64x.com # [MALWARE:90%] WARN:ExcessiveDigits
+.aaxads.com # [MALWARE:90%]
+.abisource.com # [MALWARE:90%]
+.above.com # [MALWARE:90%]
+.acemlnb.com # [SCAM:90%]
+.acme.com # [MALWARE:90%]
+.acmetoy.com # [MALWARE:90%]
+.acquiredeceasedundress.com # [MALWARE:90%]
+.acsbap.com
+.actscattydecode.com # [MALWARE:90%]
+.ad-stir.com # [MALWARE:90%]
+.adacado.com # [MALWARE:90%]
+.adblade.com
+.adblock-for-youtube.com # [MALWARE:90%]
+.adblockfast.com # [MALWARE:90%]
+.adcolony.com # [MALWARE:90%]
+.addshoppers.com # [MALWARE:90%]
+.adelement.com # [MALWARE:90%]
+.adespresso.com # [MALWARE:90%]
+.adform.com
+.adgrx.com # [MALWARE:90%]
+.adhese.com
+.adikteev.com # [MALWARE:90%]
+.adition.com
+.adk2.com # [MALWARE:90%]
+.adkernel.com # [MALWARE:90%]
+.adligature.com # [MALWARE:90%]
+.adlightning.com # [MALWARE:90%]
+.adlooxtracking.com # [MALWARE:90%]
+.admanmedia.com # [MALWARE:90%]
+.admedia.com # [MALWARE:90%]
+.admedo.com # [MALWARE:90%]
+.admitad.com # [SCAM:90%]
+.admob.com
+.admulti.com # [MALWARE:90%]
+.adnuntius.com # [MALWARE:90%]
+.adnxs.com
+.adotmob.com # [MALWARE:90%]
+.adplugg.com # [MALWARE:90%]
+.adpushup.com # [MALWARE:90%]
+.adrcdn.com # [MALWARE:90%]
+.adrecover.com # [MALWARE:90%]
+.adsafeprotected.com # [MALWARE:90%]
+.adsterra.com # [MALWARE:90%]
+.adtdp.com # [MALWARE:90%]
+.adtelligent.com # [MALWARE:90%]
+.adtheorent.com
+.adthrive.com # [MALWARE:90%]
+.adtilt.com
+.adtng.com # [MALWARE:90%]
+.adultforce.com # [MALWARE:90%]
+.adultfriendfinder.com # [MALWARE:90%]
+.adup-tech.com # [MALWARE:90%]
+.adups.com # [MALWARE:90%]
+.advanseads.com # [MALWARE:90%]
+.adventori.com # [MALWARE:90%]
+.advertising.com # [ADS:40%]
+.advertserve.com # [MALWARE:90%]
+.adx1.com # [MALWARE:90%]
+.adzestocp.com # [MALWARE:90%]
+.adzreach.com
+.aelitis.com
+.affiliatefuture.com # [MALWARE:90%]
+.affinity.com # [MALWARE:90%]
+.afgr1.com # [MALWARE:90%]
+.afterdawn.com
+.ag.com
+.agileskincareunrented.com # [MALWARE:90%]
+.alibabaonline.com # [MALWARE:90%]
+.alimama.com # [MALWARE:90%]
+.all-free-download.com # [MALWARE:90%]
+.allassignmenthelp.com # [SCAM:90%]
+.alldebrid.com
+.alocdn.com # [MALWARE:90%]
+.alpinestars.com # [SCAM:90%]
+.altitude-arena.com # [MALWARE:90%]
+.alturl.com # [MALWARE:90%]
+.amazon-adsystem.com # [SHOPPING:40%]
+.amazonses.com
+.americanlisted.com
+.amitriptylineinfo.com
+.ammyy.com # [MALWARE:90%]
+.amoredate.com
+.an1.com
+.androforever.com
+.androidloading.com
+.anewfeedliberty.com # [MALWARE:90%]
+.angelfire.com # [MALWARE:90%]
+.anime-planet.com
+.anime-sharing.com # [PIRACY:90%]
+.anirena.com # [PIRACY:90%]
+.aniview.com # [MALWARE:90%]
+.anyservers.com # [MALWARE:90%]
+.api-gateway-prod.com # [TECH:40%]
+.apkaward.com
+.apkdone.com
+.apkevery.com
+.apkgw.com
+.apkkia.com # [SCAM:90%]
+.apkmodget.com
+.apkmody.com
+.apkpure.com
+.apkrabi.com
+.app-deutschebank.com # [TECH:40%]
+.appboy.com
+.appia.com
+.appinventiv.com
+.apple376.com
+.applovin.com
+.appnext.com # [MALWARE:90%]
+.appnexus.com
+.appsflyer.com
+.appvetlogy.com
+.aptoide.com
+.apunkagames.com
+.aqle3.com
+.aralego.com # [MALWARE:90%]
+.arcamax.com # [MALWARE:90%]
+.arenabg.com # [PIRACY:90%]
+.argrowlitheor.com # [MALWARE:90%]
+.arrakis2.com
+.artcapturemumble.com # [MALWARE:90%]
+.artisteer.com # [MALWARE:90%]
+.ascendex.com # [MALWARE:90%]
+.assoc-amazon.com # [SHOPPING:40%]
+.astonishlandmassnervy.com # [MALWARE:90%]
+.astronautlividlyreformer.com # [MALWARE:90%]
+.asurion.com
+.atdmt.com
+.atimes.com
+.atlanticwestmanagement.com
+.atmtd.com # [SCAM:90%]
+.attacheatableoverlabor.com # [MALWARE:90%]
+.attackofthefanboy.com
+.attirecideryeah.com # [MALWARE:90%]
+.atwebpages.com # [MALWARE:90%]
+.atwola.com # [MALWARE:90%]
+.augmentininfo.com
+.automatad.com # [MALWARE:90%]
+.avalanchetremorunfilled.com # [MALWARE:90%]
+.avantlink.com # [MALWARE:90%]
+.aviatorreproducesauciness.com # [MALWARE:90%]
+.avsplow.com # [MALWARE:90%]
+.awin1.com
+.awltovhc.com
+.awryethicsrefill.com
+.aws.com # [MALWARE:90%]
+.b8pjmgd6.com # [SCAM:90%]
+.babylon.com # [MALWARE:90%]
+.backspinreentryupright.com # [MALWARE:90%]
+.badlandlispyippee.com # [MALWARE:90%]
+.badnessgimmickposted.com # [MALWARE:90%]
+.badoo.com # [MALWARE:90%]
+.bakbitionb.com
+.bankingbloatedcaptive.com # [MALWARE:90%]
+.bannerflow.com # [MALWARE:90%]
+.bartererfaxtingling.com # [MALWARE:90%]
+.bdshop.com # [SCAM:90%]
+.bealafulup.com # [MALWARE:90%]
+.beatstars.com # [SCAM:90%]
+.beestark.com # [MALWARE:90%]
+.bemobtrcks.com # [MALWARE:90%]
+.benrif-solutions.com
+.bestdates.com # [SCAM:90%]
+.bet365.com # [MALWARE:90%] WARN:ExcessiveDigits
+.betfair.com # [MALWARE:90%]
+.betterroblox.com # [SCAM:90%]
+.betway.com # [MALWARE:90%]
+.betweendigital.com # [MALWARE:90%]
+.bfast.com # [MALWARE:90%]
+.bggbet.com # [SCAM:90%]
+.bhp.com
+.biconomy.com # [SCAM:90%]
+.bidtheatre.com # [MALWARE:90%]
+.bigpoint.com # [SCAM:90%]
+.bigwww.com # [MALWARE:90%]
+.biltrewards.com # [SCAM:90%]
+.binomo.com
+.bintg.com
+.bitcomet.com
+.bitgetapps.com # [SCAM:90%]
+.bitmedianetwork.com
+.bitpay.com # [SCAM:90%]
+.bitrue.com # [SCAM:90%]
+.bittorrent.com # [PIRACY:90%]
+.bizcn.com # [MALWARE:90%]
+.bizographics.com # [MALWARE:90%]
+.bizrate.com
+.bkrtx.com
+.blackhatworld.com
+.blahlivedsnowdrop.com # [MALWARE:90%]
+.blcdog.com # [SCAM:90%]
+.blink.com # [MALWARE:90%]
+.blinklist.com # [MALWARE:90%]
+.blofin.com # [MALWARE:90%]
+.blogherads.com # [MALWARE:90%]
+.bloglines.com # [MALWARE:90%]
+.blogoscoped.com # [MALWARE:90%]
+.bluecava.com
+.bluekai.com
+.bmmads.com # [SCAM:90%]
+.bmtrck.com # [MALWARE:90%]
+.bncloudfl.com # [MALWARE:90%]
+.bobapsoabauns.com # [MALWARE:90%]
+.boehringer-ingelheim.com # [SCAM:90%]
+.boingo.com # [MALWARE:90%]
+.boldchat.com
+.bookmsg.com # [MALWARE:90%]
+.bootcss.com # [MALWARE:90%]
+.boxlikesedativespinach.com # [MALWARE:90%]
+.boxypluckunrelated.com # [MALWARE:90%]
+.brainspinesurgery.com
+.bravenet.com # [MALWARE:90%]
+.brealtime.com # [MALWARE:90%]
+.brigadedelegatesandbox.com # [MALWARE:90%]
+.brightadnetwork.com # [SCAM:90%]
+.broadstreetads.com # [MALWARE:90%]
+.bronzecedarleaf.com # [MALWARE:90%]
+.browniespain.com
+.brunellocucinelli.com # [SCAM:90%]
+.bstgms4y.com
+.bt4gprx.com
+.btc.com # [SCAM:90%]
+.btdig.com # [PIRACY:90%]
+.bttrack.com # [MALWARE:90%]
+.buffooncountabletreble.com # [MALWARE:90%]
+.bulkregister.com # [MALWARE:90%]
+.bullionglidingscuttle.com # [MALWARE:90%]
+.butlerfortrello.com # [MALWARE:90%]
+.buysellads.com
+.byxatab.com
+.c2.com # [MALWARE:90%] WARN:ExcessiveDigits
+.cafe24.com # [MALWARE:90%]
+.caiwik.com # [MALWARE:90%]
+.cakeresume.com
+.cameraprive.com # [MALWARE:90%]
+.camfrog.com # [MALWARE:90%]
+.campfirecroutondecorator.com # [MALWARE:90%]
+.canadafreepress.com # [SCAM:90%]
+.canekilttantrum.com # [MALWARE:90%]
+.canstrm.com # [MALWARE:90%]
+.carbonads.com # [MALWARE:90%]
+.casalemedia.com # [MALWARE:90%]
+.casetext.com # [SCAM:90%]
+.casinocity.com # [MALWARE:90%]
+.cbphe.com
+.cdkeys.com
+.cdntechone.com # [GOVERNMENT:90%]
+.celebnewsuggestions.com
+.cell.com
+.celtra.com
+.cfgr1.com # [MALWARE:90%]
+.cgtrader.com # [MALWARE:90%]
+.charmdate.com # [SCAM:90%]
+.chartbeat.com
+.chartboost.com
+.chaseherbalpasty.com # [MALWARE:90%]
+.chatwork.com
+.chestgoingpunch.com # [MALWARE:90%]
+.chez.com # [MALWARE:90%]
+.chickenkiller.com # [MALWARE:90%]
+.chihuahuadoorstoppond.com # [MALWARE:90%]
+.chilihandshakewing.com # [MALWARE:90%]
+.cholteth.com # [MALWARE:90%]
+.christianpost.com # [MALWARE:90%]
+.chtsite.com # [MALWARE:90%]
+.chubbyexemplaryhardiness.com # [MALWARE:90%]
+.city9x.com # [PIRACY:90%]
+.cj.com
+.cjdropshipping.com # [SCAM:90%]
+.cklinen.com # [SCAM:90%]
+.clammyendearedkeg.com # [MALWARE:90%]
+.clearnview.com # [MALWARE:90%]
+.clickadu.com # [MALWARE:90%]
+.clickagy.com # [MALWARE:90%]
+.clickbank.com
+.clickcertain.com # [MALWARE:90%]
+.clickfuse.com # [MALWARE:90%]
+.clickhouse.com
+.clicktotweet.com
+.clicktripz.com # [MALWARE:90%]
+.clickz.com
+.cliquemottoviscosity.com # [MALWARE:90%]
+.clladss.com # [SCAM:90%]
+.clobberprocurertightwad.com # [MALWARE:90%]
+.cloudatacdn.com
+.cloudfare.com
+.cloudflare-gateway.com # [MALWARE:90%]
+.cloudminecrypto.com # [SCAM:90%]
+.clustrmaps.com
+.cnomy.com # [MALWARE:90%]
+.cnsnews.com
+.cnzz.com # [MALWARE:90%]
+.codeanyapp.com # [MALWARE:90%]
+.codehs.com
+.coffeecup.com # [MALWARE:90%]
+.cognitoforms.com
+.comixology.com
+.commoninja.com
+.company-target.com
+.comptoirdescotonniers.com # [SCAM:90%]
+.comscore.com # [MALWARE:90%]
+.conduit.com # [MALWARE:90%]
+.confusingepisodevest.com # [MALWARE:90%]
+.connextra.com
+.constructpreachystopper.com # [MALWARE:90%]
+.contactmonkey.com # [MALWARE:90%]
+.content-loader.com # [MALWARE:90%]
+.contentabc.com
+.contextweb.com # [MALWARE:90%]
+.conversionsapigateway.com
+.cookiereports.com # [MALWARE:90%]
+.coosync.com # [MALWARE:90%]
+.coremetrics.com
+.cotosen.com # [SCAM:90%]
+.countabledawdlerunaudited.com # [MALWARE:90%]
+.coupons.com # [MALWARE:90%]
+.cpmstar.com
+.crabdance.com # [SCAM:90%]
+.crashlytics.com
+.creative-sb1.com # [MALWARE:90%]
+.creative-serving.com # [MALWARE:90%]
+.creativecdn.com # [MALWARE:90%]
+.criteo.com
+.crittereasilyhangover.com # [MALWARE:90%]
+.crotorrents.com # [PIRACY:90%]
+.crowd1.com
+.crummydevioussucculent.com # [MALWARE:90%]
+.ctgmovies.com
+.czilladx.com # [MALWARE:90%]
+.d-addicts.com # [PIRACY:90%]
+.d0dh.com # [MALWARE:90%]
+.dacllads.com # [MALWARE:90%]
+.darnobedienceupscale.com # [MALWARE:90%]
+.datemyage.com # [SCAM:90%]
+.datezone.com # [SCAM:90%]
+.datingprudethimble.com # [MALWARE:90%]
+.dawac.com
+.dcylog.com
+.dd133.com # [MALWARE:90%] WARN:ExcessiveDigits
+.ddownload.com
+.de17a.com
+.deductgreedyheadroom.com # [MALWARE:90%]
+.deepintent.com # [MALWARE:90%]
+.defybrick.com # [MALWARE:90%]
+.demandbase.com
+.democraticunderground.com # [SCAM:90%]
+.demonii.com
+.deputizepacifistwipe.com # [MALWARE:90%]
+.desertcart.com
+.destructoid.com
+.detoxifylagoonsnugness.com # [MALWARE:90%]
+.devaluequalmrelative.com # [MALWARE:90%]
+.dexapk.com
+.diagramjawlineunhappy.com # [MALWARE:90%]
+.dickssportinggoods.com # [MALWARE:90%]
+.diffusedpassionquaking.com # [MALWARE:90%]
+.digimedia.com # [MALWARE:90%]
+.discovercars.com
+.dithodackee.com # [MALWARE:90%]
+.divicast.com # [SCAM:90%]
+.divisiondrearilyunfiled.com # [MALWARE:90%]
+.dlpsgame.com
+.dnslink.com
+.dnsrd.com # [SCAM:90%]
+.docstoc.com # [MALWARE:90%]
+.dodear.com
+.dodgyfactoidprecut.com # [MALWARE:90%]
+.dominiofaidate.com # [MALWARE:90%]
+.dongtaiwang.com # [MALWARE:90%]
+.dontkillmyapp.com # [MALWARE:90%]
+.doodmv.com
+.dotesports.com
+.dotomi.com
+.dotzup.com # [MALWARE:90%]
+.doubleclick.com # [MALWARE:90%]
+.doublepimp.com # [MALWARE:90%]
+.doubleverify.com # [MALWARE:90%]
+.downloadha.com
+.dpdgroup.com
+.dpmsrv.com # [MALWARE:90%]
+.dqmop.com
+.dreamlikefostergala.com # [MALWARE:90%]
+.dribbble.com
+.driffle.com # [SCAM:90%]
+.drivereasy.com # [MALWARE:90%]
+.driverhugoverblown.com # [MALWARE:90%]
+.driveridentifier.com # [MALWARE:90%]
+.driversupport.com # [SCAM:90%]
+.drivethelife.com # [MALWARE:90%]
+.dropmefiles.com
+.drunkenslug.com
+.dsp-server.com # [SCAM:90%]
+.dsredirection.com # [MALWARE:90%]
+.dsvplay.com
+.dualshockers.com
+.duckvoidrebuke.com # [MALWARE:90%]
+.dvdvideosoft.com # [MALWARE:90%]
+.dvrlists.com # [MALWARE:90%]
+.e2ertt.com # [MALWARE:90%]
+.e68eaebc30768a673848927c2b8c8e38c38fd42312e367bca04fc622.com # WARN:ExcessiveDigits
+.e89d45b16370ee7e43daeaf6ce8d9547.com # [MALWARE:90%] WARN:ExcessiveDigits
+.earmuffpostnasalrisotto.com # [MALWARE:90%]
+.earn-pepe.com # [SCAM:90%]
+.earringsatisfiedsplice.com # [MALWARE:90%]
+.easyhits4u.com # [MALWARE:90%]
+.easynews.com
+.eatcells.com # [MALWARE:90%]
+.eccentricsterilizevastness.com # [MALWARE:90%]
+.edikted.com # [SCAM:90%]
+.edreams.com # [SCAM:90%]
+.edubirdie.com # [SCAM:90%]
+.effectiveratecpm.com # [MALWARE:90%]
+.egroups.com # [MALWARE:90%]
+.eladove.com # [MALWARE:90%]
+.elaydark.com # [MALWARE:90%]
+.elearningmine.com # [MALWARE:90%]
+.elecfans.com # [MALWARE:90%]
+.elitesingles.com # [SCAM:90%]
+.emarketer.com
+.embercascademaple.com # [MALWARE:90%]
+.emjcd.com
+.endowmentoverhangutmost.com # [MALWARE:90%]
+.entreesmoothstir.com # [MALWARE:90%]
+.epidermispushupvariable.com # [MALWARE:90%]
+.epoackouxaik.com # [MALWARE:90%]
+.eqads.com # [MALWARE:90%]
+.escapistmagazine.com
+.esn.com
+.essaypro.com # [SCAM:90%]
+.etahub.com # [MALWARE:90%]
+.evergage.com
+.evernote.com
+.everstylish.com # [SCAM:90%]
+.evolvemediallc.com # [MALWARE:90%]
+.exacttarget.com # [MALWARE:90%]
+.excavatenearbywand.com # [MALWARE:90%]
+.exchange4media.com # [MALWARE:90%]
+.exdynsrv.com # [MALWARE:90%]
+.exemple.com # [MALWARE:90%]
+.exmasters.com # [MALWARE:90%]
+.exoclick.com # [MALWARE:90%]
+.explainplaysettwisting.com
+.explorads.com # [MALWARE:90%]
+.expmclck.com
+.exponential.com
+.extreme-dm.com # [MALWARE:90%]
+.extremetracking.com # [MALWARE:90%]
+.ey43.com # [MALWARE:90%] WARN:ExcessiveDigits
+.ezmob.com # [MALWARE:90%]
+.ezymny.com # [SCAM:90%]
+.f2pool.com # [SCAM:90%]
+.fantasyfeeder.com # [SCAM:90%]
+.fapality.com # [MALWARE:90%]
+.faqtoids.com # [MALWARE:90%]
+.fartit.com # [MALWARE:90%]
+.fboxtv.com
+.febspot.com # [SCAM:90%]
+.feedreader.com # [MALWARE:90%]
+.fh39v25y.com # [SCAM:90%] WARN:ExcessiveDigits
+.filecr.com
+.filefactory.com
+.filehorse.com
+.filejo.com # [MALWARE:90%]
+.filesor.com # [MALWARE:90%]
+.filesusr.com
+.findglocal.com
+.firstosama.com # [MALWARE:90%]
+.flagcounter.com # [MALWARE:90%]
+.flashget.com # [MALWARE:90%]
+.flashtalking.com
+.flingtrainer.com # [MALWARE:90%]
+.flipp.com # [MALWARE:90%]
+.flipsnack.com
+.flirt4free.com # [MALWARE:90%]
+.flurry.com
+.flushpersist.com # [MALWARE:90%]
+.flwadw.com # [MALWARE:90%]
+.flyingcroc.com # [MALWARE:90%]
+.football.com # [MALWARE:90%]
+.footbathmockerpurse.com # [MALWARE:90%]
+.forscprts.com # [MALWARE:90%]
+.fortect.com
+.fractionfridgejudiciary.com # [MALWARE:90%]
+.freckledoutsiderundaunted.com # [MALWARE:90%]
+.free-bonk.com # [SCAM:90%]
+.freegogpcgames.com # [PIRACY:90%]
+.freerepublic.com # [SCAM:90%]
+.freeroms.com # [MALWARE:90%]
+.freewebs.com
+.fremdgehen69.com # [SCAM:90%]
+.frozenpayerpregnant.com # [MALWARE:90%]
+.funshion.com # [MALWARE:90%]
+.g2a.com # [SCAM:90%]
+.g2afse.com
+.galeon.com # [MALWARE:90%]
+.game3rb.com # [PIRACY:90%]
+.gamedva.com
+.gamehayvl.com
+.gamehouse.com
+.gamekillerapp.com
+.gamepur.com
+.gameskinny.com
+.gametop.com # [MALWARE:90%]
+.gamezer.com # [MALWARE:90%]
+.gangwaynumberprivacy.com # [MALWARE:90%]
+.gendou.com
+.genieessp.com # [MALWARE:90%]
+.getclicky.com
+.getdrip.com
+.getintopc.com # [PIRACY:90%]
+.getjar.com
+.getmodsapk.com
+.getmysocial.com
+.getpocket.com
+.getresponse.com # [SCAM:90%]
+.getrockerbox.com # [MALWARE:90%]
+.getvideostream.com
+.gigglegrowlworrisome.com # [MALWARE:90%]
+.gitee.com
+.github.com
+.gitlab.com
+.giveawayoftheday.com # [SCAM:90%]
+.glempirteechacm.com # [MALWARE:90%]
+.globlemath.com
+.go2affise.com # [MALWARE:90%]
+.goadservices.com
+.golnkz.com # [MALWARE:90%]
+.gomining.com # [SCAM:90%]
+.gooddog.com # [SCAM:90%]
+.goodsearch.com # [MALWARE:90%]
+.googl.com
+.googlesyndication.com
+.googletagmanager.com
+.goole.com
+.gooogle.com
+.gotrackier.com # [MALWARE:90%]
+.grailed.com # [SCAM:90%]
+.gravatar.com
+.greatdexchange.com # [MALWARE:90%]
+.gregorinius.com # [MALWARE:90%]
+.groovinads.com # [MALWARE:90%]
+.gt232558.com # [SCAM:90%] WARN:ExcessiveDigits
+.gtbdhr.com # [MALWARE:90%]
+.gtimg.com # [SCAM:90%]
+.guestreservations.com # [SCAM:90%]
+.guidepaparazzisurface.com # [MALWARE:90%]
+.gumgum.com # [MALWARE:90%]
+.gwallet.com # [MALWARE:90%]
+.habiculpize.com
+.hanime-cdn.com # [TECH:40%]
+.hao123.com # [MALWARE:90%] WARN:ExcessiveDigits
+.harri.com
+.hatenablog-parts.com # [SCAM:90%]
+.hdfcsky.com
+.hdporncomics.com # [SCAM:90%]
+.hellyhansen.com # [SCAM:90%]
+.hentaiheroes.com # [MALWARE:90%]
+.heraldextra.com # [MALWARE:90%]
+.herominers.com # [SCAM:90%]
+.hexrom.com
+.hidemyass.com # [MALWARE:90%]
+.highperformanceformat.com # [MALWARE:90%]
+.histats.com
+.hlserve.com # [MALWARE:90%]
+.holahupa.com # [MALWARE:90%]
+.hollywood.com # [MALWARE:90%]
+.homietv.com # [MALWARE:90%]
+.hopin.com
+.hostingprod.com # [MALWARE:90%]
+.hostitbro.com
+.hotishop.com # [SCAM:90%]
+.hotmart.com # [SCAM:90%]
+.hotspotshield.com # [MALWARE:90%]
+.house-of-usenet.com
+.hprofits.com # [MALWARE:90%]
+.hpyrdr.com # [MALWARE:90%]
+.hs-plus.com # [SCAM:90%]
+.hs-sites-eu1.com # [MALWARE:90%]
+.hubhc.com # [SCAM:90%]
+.hx4983dhh5.com # [SCAM:90%] WARN:ExcessiveDigits
+.icptrack.com
+.iesnare.com # [MALWARE:90%]
+.ifaplanet.com
+.ifastnet.com # [MALWARE:90%]
+.iflirts.com # [SCAM:90%]
+.iflix.com
+.igg-games.com # [PIRACY:90%]
+.ignorelist.com # [MALWARE:90%]
+.ii41.com # [MALWARE:90%] WARN:ExcessiveDigits
+.imagefap.com # [MALWARE:90%]
+.imgsniper.com # [MALWARE:90%]
+.imlive.com # [MALWARE:90%]
+.immortalnight.com
+.impactradius-go.com # [MALWARE:90%]
+.imrworldwide.com
+.inboxdollars.com
+.infinity-message.com # [MALWARE:90%]
+.inflact.com
+.info.com # [MALWARE:90%]
+.infolinks.com
+.information.com
+.inkedin.com
+.inmobi.com # [MALWARE:90%]
+.innity.com # [MALWARE:90%]
+.insightexpressai.com # [MALWARE:90%]
+.instgram.com
+.insticator.com # [MALWARE:90%]
+.instragram.com
+.intellipopup.com # [MALWARE:90%]
+.intensedebate.com # [MALWARE:90%]
+.intenthq.com # [MALWARE:90%]
+.interdominios.com # [MALWARE:90%]
+.intergi.com
+.investingchannel.com # [MALWARE:90%]
+.inwayhosting.com # [MALWARE:90%]
+.inyoketuber.com # [MALWARE:90%]
+.iobit.com # [MALWARE:90%]
+.ip-adress.com # [MALWARE:90%]
+.ip138.com # [MALWARE:90%] WARN:ExcessiveDigits
+.iperceptions.com
+.ipredictive.com # [MALWARE:90%]
+.ipromote.com # [MALWARE:90%]
+.iptorrents.com # [PIRACY:90%]
+.iqoption.com # [SCAM:90%]
+.isprime.com # [MALWARE:90%]
+.itemci.com
+.ivisa.com
+.iwin.com # [MALWARE:90%]
+.ix1000.com # WARN:ExcessiveDigits
+.iyfubh.com
+.jackpot.com # [MALWARE:90%]
+.jamendo.com
+.jango.com # [MALWARE:90%]
+.janitorprecisiontrio.com # [MALWARE:90%]
+.japanthis.com # [MALWARE:90%]
+.javbus.com # [PIRACY:90%]
+.javlibrary.com # [PIRACY:90%]
+.jgrqyxupl.com
+.jitterspauperusher.com # [MALWARE:90%]
+.jkub.com # [MALWARE:90%]
+.joblo.com # [MALWARE:90%]
+.joom.com
+.jsbin.com
+.jsonip.com # [MALWARE:90%]
+.juicyads.com
+.justdied.com # [MALWARE:90%]
+.justpremium.com # [MALWARE:90%]
+.kantarmedia.com # [MALWARE:90%]
+.kargo.com
+.kayoanime.com
+.kazeo.com # [MALWARE:90%]
+.kcex.com # [SCAM:90%]
+.ke.com
+.keen.com # [SCAM:90%]
+.kesug.com
+.kettledroopingcontinuation.com # [MALWARE:90%]
+.khinsider.com
+.kickscrew.com # [SCAM:90%]
+.kimoitv.com
+.kiosked.com # [MALWARE:90%]
+.kissmetrics.com
+.kixify.com # [SCAM:90%]
+.koddos.com # [MALWARE:90%]
+.komikcast03.com
+.kqzyfj.com
+.ksn.com
+.kuolkoola.com # [MALWARE:90%]
+.landsend.com # [MALWARE:90%]
+.lbank.com # [SCAM:90%]
+.lbk-sol.com
+.ldgslb.com # [SCAM:90%]
+.lensmartonline.com # [SCAM:90%]
+.lfstmedia.com # [MALWARE:90%]
+.life.com
+.life123.com # [MALWARE:90%] WARN:ExcessiveDigits
+.lightinthebox.com # [SCAM:90%]
+.lijit.com
+.lilydatastream.com
+.linkpop.com
+.linkvertise.com # [SCAM:90%]
+.linuxpl.com # [MALWARE:90%]
+.liquidation.com
+.liteapks.com
+.litfad.com # [MALWARE:90%]
+.liveintent.com
+.livejasmin.com # [MALWARE:90%]
+.livesoccertv.com
+.ljive.com
+.lmtonline.com # [MALWARE:90%]
+.localytics.com
+.lockerdome.com # [MALWARE:90%]
+.lockerdomecdn.com # [MALWARE:90%]
+.logmeinrescue.com # [MALWARE:90%]
+.looksmart.com # [MALWARE:90%]
+.louisvuittonreplicabag.com # [SCAM:90%]
+.lovejili21.com # [SCAM:90%]
+.loveme.com # [MALWARE:90%]
+.loves.com
+.ltcminer.com # [MALWARE:90%]
+.luckypatchers.com
+.ludashi.com # [MALWARE:90%]
+.ludashisafe.com
+.ludevices.com # [MALWARE:90%]
+.lulustream.com
+.luluvid.com
+.lvditoys.com # [MALWARE:90%]
+.mackeeper.com # [MALWARE:90%]
+.madison.com # [MALWARE:90%]
+.madmimi.com # [MALWARE:90%]
+.madurird.com # [MALWARE:90%]
+.mailbank.com # [MALWARE:90%]
+.mainadv.com # [MALWARE:90%]
+.mainroll.com # [MALWARE:90%]
+.malavida.com
+.mamma.com # [MALWARE:90%]
+.mandrillapp.com
+.manhuaus.com # [MALWARE:90%]
+.manhwaclan.com # [MALWARE:90%]
+.marfeel.com # [MALWARE:90%]
+.marphezis.com # [MALWARE:90%]
+.matbao.com # [MALWARE:90%]
+.mathads.com # [MALWARE:90%]
+.mathtag.com
+.maturesfling.com # [SCAM:90%]
+.maxthon.com # [MALWARE:90%]
+.mbidadm.com # [MALWARE:90%]
+.mbidinp.com # [MALWARE:90%]
+.mbidpp.com # [MALWARE:90%]
+.mcead.com
+.mcpuwpsh.com # [MALWARE:90%]
+.mdates.com # [MALWARE:90%]
+.mdy48tn97.com # [SCAM:90%] WARN:ExcessiveDigits
+.medfoodsafety.com # [SCAM:90%]
+.media-412.com # [SCAM:90%]
+.media6degrees.com # [MALWARE:90%]
+.mediafire.com
+.mediaget.com # [MALWARE:90%]
+.mediaplex.com
+.mediatakeout.com # [MALWARE:90%]
+.mediavine.com # [MALWARE:90%]
+.medyanetads.com
+.mefound.com # [MALWARE:90%]
+.meiboot.com
+.menafn.com # [SCAM:90%]
+.metacrawler.com # [MALWARE:90%]
+.metaffiliation.com
+.metal-tracker.com # [ADS:40%]
+.metatrader5.com # [SCAM:90%]
+.metatrckpixel.com # [MALWARE:90%]
+.metricswpsh.com # [MALWARE:90%]
+.mgid.com
+.miaozhen.com # [MALWARE:90%]
+.miarroba.com # [MALWARE:90%]
+.microsoft365.com
+.midnightlotusgrove.com # [MALWARE:90%]
+.mihanwebhost.com # [SCAM:90%]
+.mindpackstudios.com # [FILESHARING:90%]
+.miricanvas.com
+.mix.com # [SCAM:90%]
+.mixpanel.com
+.ml314.com # [MALWARE:90%] WARN:ExcessiveDigits
+.mmtro.com
+.mndx1.com # [MALWARE:90%]
+.mnpa6gtrk.com # [MALWARE:90%]
+.moatads.com
+.mobfox.com # [MALWARE:90%]
+.mobile-tracker-free.com # [ADS:40%]
+.mobileapptracking.com
+.mobileposse.com
+.mocreo.com # [SCAM:90%]
+.modcombo.com
+.modded-1.com
+.moddroid.com
+.modhello.com
+.modsmaniac.com
+.modyolo.com
+.monetizer101.com # [MALWARE:90%]
+.mookie1.com # [MALWARE:90%]
+.mooo.com # [MALWARE:90%]
+.mopub.com
+.morguefile.com # [MALWARE:90%]
+.moroccancam.com
+.motominer.com # [MALWARE:90%]
+.mouseflow.com
+.movieorca.com
+.mrbasic.com # [SCAM:90%]
+.mrvegas.com
+.mtrafficgeo.com # [MALWARE:90%]
+.multitran.com
+.myabandonware.com
+.myaffiliates.com # [MALWARE:90%]
+.myassignmenthelp.com # [SCAM:90%]
+.mybjjblog.com # [MALWARE:90%]
+.mydates.com
+.myhost.com # [MALWARE:90%]
+.mylftv.com # [MALWARE:90%]
+.myq-see.com
+.myshoplaza.com # [SCAM:90%]
+.mysticechohaven.com # [MALWARE:90%]
+.myvidplay.com
+.myway.com # [MALWARE:90%]
+.naiadsystems.com
+.name.com
+.nappyonsetstiffness.com # [MALWARE:90%]
+.national-net.com # [MALWARE:90%]
+.nawpush.com # [MALWARE:90%]
+.nchsoftware.com # [MALWARE:90%]
+.ndsplitter.com # [MALWARE:90%]
+.neodatagroup.com # [MALWARE:90%]
+.nereserv.com # [MALWARE:90%]
+.neteller.com # [SCAM:90%]
+.netmng.com
+.netsolhost.com # [MALWARE:90%]
+.netsynergy.com # [MALWARE:90%]
+.news9.com # [SCAM:90%]
+.newsbtc.com
+.newshinyd.com # [MALWARE:90%]
+.newshosting.com
+.nextinsure.com # [MALWARE:90%]
+.nimbusgrovelodge.com # [MALWARE:90%]
+.nin-nin-game.com # [GAMES:40%]
+.nitroflare.com
+.now.com # [SCAM:90%]
+.nowosama.com # [MALWARE:90%]
+.nseindia.com # [MALWARE:90%]
+.nswgame.com
+.nswpedia.com # [MALWARE:90%]
+.nsxafiliados.com
+.ntvpforever.com # [MALWARE:90%]
+.oabaubsutha.com # [MALWARE:90%]
+.obqj2.com # [MALWARE:90%]
+.oceanicdreamcove.com # [MALWARE:90%]
+.oceanofgames.com # [SCAM:90%]
+.ocmtag.com # [MALWARE:90%]
+.ocry.com
+.officeppe.com
+.oldversion.com # [MALWARE:90%]
+.olevod.com
+.omnitagjs.com # [MALWARE:90%]
+.omniture.com
+.onclckbnr.com # [MALWARE:90%]
+.onclckinpg.com # [MALWARE:90%]
+.onclckmn.com # [MALWARE:90%]
+.one-new-message-okay.com # [MALWARE:90%]
+.oneinternetbrowser.com # [MALWARE:90%]
+.onejav.com # [PIRACY:90%]
+.onelaunch.com # [MALWARE:90%]
+.onenews.com # [MALWARE:90%]
+.onfireshield.com # [MALWARE:90%]
+.onlinedataentryjob.com # [SCAM:90%]
+.oo12co.com
+.openairinfo.com # [MALWARE:90%]
+.openbittorrent.com # [PIRACY:90%]
+.openwebtorrent.com # [PIRACY:90%]
+.openx.com
+.operationsports.com
+.opinionstage.com
+.optimumdesk.com # [MALWARE:90%]
+.optinmonster.com # [MALWARE:90%]
+.optvz.com # [SCAM:90%]
+.ordinalblockingprobable.com # [MALWARE:90%]
+.ordozen.com # [MALWARE:90%]
+.osamadada.com # [MALWARE:90%]
+.oshioki24.com
+.oszar.com # [MALWARE:90%]
+.oupeng.com # [SCAM:90%]
+.ourtime.com # [SCAM:90%]
+.outbidplacardshowman.com # [MALWARE:90%]
+.outbrain.com
+.outbyte.com # [MALWARE:90%]
+.outlet-ns.com
+.outloo.com
+.ovagames.com
+.overplantovervaluetwine.com # [MALWARE:90%]
+.ownlocal.com # [MALWARE:90%]
+.pacermonitor.com # [SCAM:90%]
+.pagerrentablespotlight.com # [MALWARE:90%]
+.pansuvidha.com
+.paperlesspost.com # [MALWARE:90%]
+.papersowl.com # [SCAM:90%]
+.parade.com
+.parked.com # [MALWARE:90%]
+.partycasino.com # [MALWARE:90%]
+.partypoker.com # [MALWARE:90%]
+.passfixx.com # [MALWARE:90%]
+.pastebin.com
+.payhip.com
+.pc6.com # [MALWARE:90%]
+.pcgamestorrents.com # [PIRACY:90%]
+.pchelpsoft.com # [MALWARE:90%]
+.pcinvasion.com
+.pcmatichome.com # [MALWARE:90%]
+.pcpitstop.com # [MALWARE:90%]
+.pdalife.com
+.pdfdrive.com
+.pdfroom.com
+.peckservers.com
+.peer39.com # [MALWARE:90%]
+.pemsrv.com # [SCAM:90%]
+.pepperjamnetwork.com
+.peraichi.com
+.phgop1.com # [MALWARE:90%]
+.phnompenhpost.com # [MALWARE:90%]
+.phonearena.com
+.phonerotica.com
+.picclick.com
+.pichunter.com # [MALWARE:90%]
+.pimpandhost.com # [MALWARE:90%]
+.pirateproxy-bay.com # [PIRACY:90%]
+.pixeldrain.com # [MALWARE:90%]
+.pixelriverforge.com # [MALWARE:90%]
+.plarium.com # [MALWARE:90%]
+.platinmods.com
+.playerauctions.com # [SCAM:90%]
+.playrix.com # [MALWARE:90%]
+.playsnourishbag.com # [MALWARE:90%]
+.plclick.com
+.plista.com
+.pncloudfl.com # [MALWARE:90%]
+.pocketgamer.com
+.pocketnow.com # [MALWARE:90%]
+.pocketoption.com # [SCAM:90%]
+.pointcontinentrtb.com # [MALWARE:90%]
+.pokerlistings.com # [MALWARE:90%]
+.poolin.com # [SCAM:90%]
+.popdemission.com # [SCAM:90%]
+.poperblocker.com # [MALWARE:90%]
+.porn300.com # [MALWARE:90%] WARN:ExcessiveDigits
+.porndroids.com # [MALWARE:90%]
+.pornrabbit.com # [MALWARE:90%]
+.portaldaqueixa.com # [SCAM:90%]
+.portaltvto.com # [MALWARE:90%]
+.posteezy.com # [SCAM:90%]
+.postrelease.com # [MALWARE:90%]
+.pow7.com # [PIRACY:90%]
+.pplive.com # [MALWARE:90%]
+.preferencenail.com # [MALWARE:90%]
+.premilkyway.com
+.premiumvertising.com # [MALWARE:90%]
+.pretty-fly4.com # [MALWARE:90%]
+.prezi.com
+.primagames.com
+.primevideo.com
+.profitableratecpm.com # [MALWARE:90%]
+.profitorapi.com # [MALWARE:90%]
+.progameguides.com
+.programminginsider.com
+.propellerads.com
+.proximic.com # [MALWARE:90%]
+.ptoamtoucoay.com
+.pu207ev.com # [MALWARE:90%] WARN:ExcessiveDigits
+.pu211ev.com # [MALWARE:90%] WARN:ExcessiveDigits
+.pu212ev.com # [MALWARE:90%] WARN:ExcessiveDigits
+.pu214ev.com # [MALWARE:90%] WARN:ExcessiveDigits
+.pu215ev.com # [MALWARE:90%] WARN:ExcessiveDigits
+.pu217ev.com # [MALWARE:90%] WARN:ExcessiveDigits
+.pu218ev.com # [MALWARE:90%] WARN:ExcessiveDigits
+.pu220ev.com # [MALWARE:90%] WARN:ExcessiveDigits
+.pu222ev.com # [MALWARE:90%] WARN:ExcessiveDigits
+.pu889ev.com # [MALWARE:90%] WARN:ExcessiveDigits
+.pu890ev.com # [MALWARE:90%] WARN:ExcessiveDigits
+.pu892ev.com # [MALWARE:90%] WARN:ExcessiveDigits
+.pubhtml5.com # [MALWARE:90%]
+.publir.com # [MALWARE:90%]
+.pubmatic.com
+.pubmine.com # [MALWARE:90%]
+.pubnation.com # [MALWARE:90%]
+.pubyun.com # [MALWARE:90%]
+.push-sdk.com # [MALWARE:90%]
+.pushclk.com # [MALWARE:90%]
+.pvdpix.com
+.pxleo5fbca7141b5.com
+.qiyi.com # [MALWARE:90%]
+.qocoll.com
+.qrfy.com
+.quality-traffic.com # [MALWARE:90%]
+.quantcast.com
+.quantserve.com # [MALWARE:90%]
+.questionpro.com
+.quip.com
+.qweather.com
+.qxbroker.com # [MALWARE:90%]
+.rapelust.com # [SCAM:90%]
+.rapidfoxengine.com # [MALWARE:90%]
+.rarbg.com # [PIRACY:90%]
+.rdgqkfxio.com
+.readallcomics.com
+.readymag.com
+.real-debrid.com
+.realizationnewestfangs.com # [MALWARE:90%]
+.realprize.com # [MALWARE:90%]
+.reasonsecurity.com # [MALWARE:90%]
+.rebelmouse.com # [SCAM:90%]
+.recordsetter.com # [MALWARE:90%]
+.redirectingat.com # [MALWARE:90%]
+.redpineapplemedia.com # [MALWARE:90%]
+.reference-sexe.com # [MALWARE:90%]
+.rei.com # [SCAM:90%]
+.reimageplus.com # [MALWARE:90%]
+.rekonise.com
+.relevanceads.com
+.renamereptiliantrance.com # [MALWARE:90%]
+.repack-games.com # [MALWARE:90%]
+.replit.com
+.repocket.com
+.restoro.com # [MALWARE:90%]
+.retrostic.com
+.revcontent.com
+.revenuecpmgate.com # [MALWARE:90%]
+.reviversoft.com # [SCAM:90%]
+.rh398296g.com # [SCAM:90%] WARN:ExcessiveDigits
+.riamiavid.com # [MALWARE:90%]
+.ringgitplus.com
+.rlcdn.com
+.rmhfrtnd.com # [MALWARE:90%]
+.roagrofoogrobo.com # [MALWARE:90%]
+.roanoke.com # [SCAM:90%]
+.rollercoin.com # [SCAM:90%]
+.romsfun.com # [SCAM:90%]
+.romslab.com
+.romspedia.com
+.rootsweb.com # [MALWARE:90%]
+.rtbscale.com # [MALWARE:90%]
+.rtbsystem.com # [MALWARE:90%]
+.rubiconproject.com
+.runnerspace.com
+.rxrtb.com # [SCAM:90%]
+.ryjer.com
+.s9gxw8.com
+.sacwumsf.com # [MALWARE:90%]
+.sakerplus.com # [SCAM:90%]
+.sanincode.com
+.save-free.com
+.saveetha.com
+.savefiles.com
+.sbobet.com # [SCAM:90%]
+.scenenzbs.com
+.scname.com # [MALWARE:90%]
+.scorecardresearch.com
+.scratchstakes.com
+.search.com # [MALWARE:90%]
+.search-browser.com # [MALWARE:90%]
+.search-load.com # [SCAM:90%]
+.search-sprint.com # [SCAM:90%]
+.searchmagnified.com # [MALWARE:90%]
+.sec-tunnel.com # [SCAM:90%]
+.secretbenefits.com # [SCAM:90%]
+.secure-booker.com # [MALWARE:90%]
+.secureanalytic.com # [MALWARE:90%]
+.sedoparking.com # [MALWARE:90%]
+.sellfox.com
+.sendspace.com
+.servedby-buysellads.com
+.servedbyadbutler.com
+.serving-sys.com
+.servsserverz.com # [MALWARE:90%]
+.shakingtacklingunpeeled.com # [MALWARE:90%]
+.shanaproject.com # [PIRACY:90%]
+.shareasale.com
+.sharethrough.com # [MALWARE:90%]
+.shift.com # [MALWARE:90%]
+.shiftapis.com # [MALWARE:90%]
+.shiftnews.com # [MALWARE:90%]
+.shinystat.com
+.shipspotting.com # [MALWARE:90%]
+.shishartech.com
+.shopco.com
+.show-creative1.com # [MALWARE:90%]
+.si.com
+.siamzone.com # [MALWARE:90%]
+.sibautomation.com
+.sibforms.com
+.sidequestvr.com
+.siliconera.com
+.silverglad.com # [MALWARE:90%]
+.simkl.com
+.simpletexting.com
+.simpli.com # [MALWARE:90%]
+.singsw.com # [MALWARE:90%]
+.sirweara.com
+.sitemeter.com
+.sitescout.com # [MALWARE:90%]
+.skidrowreloaded.com
+.skimresources.com
+.skinnycrawlinglax.com # [MALWARE:90%]
+.skyrock.com
+.smartadserver.com # [MALWARE:90%]
+.smartsupp.com
+.smartyads.com # [MALWARE:90%]
+.smbtnupsh.com # [MALWARE:90%]
+.snack-media.com # [MALWARE:90%]
+.snap.com # [MALWARE:90%]
+.socialrus.com # [SCAM:90%]
+.socigames.com # [SCAM:90%]
+.socpublic.com # [SCAM:90%]
+.solarcyclonesky.com # [MALWARE:90%]
+.solvusoft.com # [MALWARE:90%]
+.soundestlink.com # [SCAM:90%]
+.source4game.com # [SCAM:90%]
+.sourshaped.com # [MALWARE:90%]
+.southparkstudios.com
+.sovendus-network.com # [MALWARE:90%]
+.sp-trk.com
+.sparklit.com
+.speakol.com # [MALWARE:90%]
+.speedshiftmedia.com # [MALWARE:90%]
+.spotxchange.com
+.springserve.com # [MALWARE:90%]
+.srvtrck.com # [SCAM:90%]
+.sssinstagram.com
+.ssyoutube.com
+.stackadapt.com # [MALWARE:90%]
+.staikudrik.com # [MALWARE:90%]
+.stat-rock.com # [MALWARE:90%]
+.statcounter.com
+.stathat.com # [MALWARE:90%]
+.steamrip.com # [MALWARE:90%]
+.steelhousemedia.com
+.stickyadstv.com # [MALWARE:90%]
+.stores-apple.com # [SCAM:90%]
+.streamable.com
+.streamate.com # [MALWARE:90%]
+.streamruby.com
+.streamtape.com
+.streema.com
+.stremio.com # [PIRACY:90%]
+.submit-form.com
+.subscribepage.com
+.sugarsync.com # [MALWARE:90%]
+.sunnycloudstone.com # [MALWARE:90%]
+.sunporno.com # [MALWARE:90%]
+.superoffice.com # [SCAM:90%]
+.superpsx.com
+.supersonicads.com # [MALWARE:90%]
+.suphelper.com # [MALWARE:90%]
+.supplyframe.com # [MALWARE:90%]
+.supportxmr.com
+.surveygizmo.com
+.surveymonkey.com # [SCAM:90%]
+.surveyrouter.com # [MALWARE:90%]
+.sustat.com
+.swagbucks.com # [SCAM:90%]
+.swoop.com # [MALWARE:90%]
+.swupdater.com # [MALWARE:90%]
+.t35.com # [MALWARE:90%] WARN:ExcessiveDigits
+.taboola.com
+.talent.com # [SCAM:90%]
+.tamaris.com # [SCAM:90%]
+.tapad.com
+.tapioni.com # [MALWARE:90%]
+.tapjoy.com
+.tapjoyads.com # [MALWARE:90%]
+.techcdn.com # [MALWARE:90%]
+.technoratimedia.com # [MALWARE:90%]
+.techweb.com # [MALWARE:90%]
+.tencentcs.com # [MALWARE:90%]
+.tenorshare.com # [SCAM:90%]
+.terratraf.com # [MALWARE:90%]
+.tessopomsu.com
+.test.com
+.tezfiles.com # [MALWARE:90%]
+.thaiticketmajor.com # [MALWARE:90%]
+.thaudray.com # [MALWARE:90%]
+.thecounter.com # [MALWARE:90%]
+.thehistore.com # [MALWARE:90%]
+.thejigsawpuzzles.com
+.theledger.com # [MALWARE:90%]
+.themarysue.com
+.therarbg.com
+.thestreet.com
+.tianqi.com # [MALWARE:90%]
+.tiktok-max.com # [MALWARE:90%]
+.tiktokpangle-cdn-us.com # [SCAM:90%]
+.timeforchangecounselling.com # [SCAM:90%]
+.tinyurl.com # [MALWARE:90%]
+.tioanime.com
+.titanhq.com # [MALWARE:90%]
+.titfinder.com # [SCAM:90%]
+.tjk-njk.com # [MALWARE:90%]
+.tlovertonet.com
+.tmailor.com # [MALWARE:90%]
+.tonicmovies.com # [MALWARE:90%]
+.topdocumentaryfilms.com
+.topqualitylink.com # [MALWARE:90%]
+.torayche.com # [MALWARE:90%]
+.torlock.com # [PIRACY:90%]
+.torrentday.com # [PIRACY:90%]
+.torrentfunk.com # [PIRACY:90%]
+.torrentoyunindir.com # [PIRACY:90%]
+.torrentsmd.com # [PIRACY:90%]
+.totaladblock.com # [MALWARE:90%]
+.totalav.com # [MALWARE:90%]
+.totaldrive.com # [MALWARE:90%]
+.totalsecurity.com # [MALWARE:90%]
+.tqlkg.com # [MALWARE:90%]
+.trackwilltrk.com # [MALWARE:90%]
+.tradedoubler.com
+.trafcfy.com # [MALWARE:90%]
+.traffichunt.com
+.trafficjunky.com # [MALWARE:90%]
+.trafficz.com # [MALWARE:90%]
+.trafmag.com # [MALWARE:90%]
+.transferwise.com
+.transitapp.com
+.transmissionbt.com
+.trasupr.com
+.travefy.com
+.trckswrm.com # [MALWARE:90%]
+.treasuredata.com
+.trellian.com # [MALWARE:90%]
+.trendyforsong886.com
+.tribalfusion.com
+.tricitytorrents.com # [PIRACY:90%]
+.trk-architecto.com # [MALWARE:90%]
+.trk-brevinate.com # [MALWARE:90%]
+.trk-instructior.com # [MALWARE:90%]
+.trk-keingent.com # [MALWARE:90%]
+.trk-tristique.com # [MALWARE:90%]
+.troypoint.com
+.truex.com # [MALWARE:90%]
+.trustbuildwindows.com # [SCAM:90%]
+.truthfinder.com # [SCAM:90%]
+.tsdtocl.com # [MALWARE:90%]
+.tsyndicate.com # [MALWARE:90%]
+.tubemogul.com
+.tupaki.com # [MALWARE:90%]
+.turkish123.com
+.turn.com # [MALWARE:90%]
+.twicsy.com # [SCAM:90%]
+.twiter.com
+.tynker.com
+.tzegilo.com # [MALWARE:90%]
+.u7buy.com # [SCAM:90%]
+.ua.com # [SCAM:90%]
+.uaserials.com
+.ucarecdn.com
+.ucweb.com # [MALWARE:90%]
+.ueuo.com
+.ukankingwithea.com # [MALWARE:90%]
+.unaux.com
+.unblockninja.com
+.unbouncepages.com
+.unifiedlayer.com # [MALWARE:90%]
+.unipin.com
+.unrulymedia.com
+.unstoppabledomains.com
+.untd.com
+.uoozee.com # [SCAM:90%]
+.up.com
+.updatestar.com # [MALWARE:90%]
+.uploading.com # [MALWARE:90%]
+.upperserver29.com
+.urban-vpn.com # [MALWARE:90%]
+.usefulcontentsites.com # [MALWARE:90%]
+.usenet-crawler.com
+.usheebainaut.com # [MALWARE:90%]
+.usrfiles.com
+.utorrent.com # [PIRACY:90%]
+.valuecommerce.com # [MALWARE:90%]
+.vasstycom.com # [MALWARE:90%]
+.vdopia.com
+.vectorstock.com # [MALWARE:90%]
+.velvetarrowhawk.com # [MALWARE:90%]
+.venus.com # [SCAM:90%]
+.verizonwireless.com
+.vertamedia.com # [MALWARE:90%]
+.vertigovitalitywieldable.com # [MALWARE:90%]
+.vevioz.com # [SCAM:90%]
+.vfgta.com # [MALWARE:90%]
+.via.com
+.vialotadom.com # [MALWARE:90%]
+.videosz.com # [MALWARE:90%]
+.vidloom.com # [MALWARE:90%]
+.vidmateapp.com
+.viewlift.com
+.villagevoice.com # [SCAM:90%]
+.vindicosuite.com # [MALWARE:90%]
+.viralvideo99.com # [SCAM:90%]
+.viromin.com # [MALWARE:90%]
+.vitalmtb.com # [SCAM:90%]
+.vitkac.com
+.vntsm.com # [MALWARE:90%]
+.voodoo.com # [MALWARE:90%]
+.vpnmentor.com
+.vungle.com # [MALWARE:90%]
+.vuze.com # [PIRACY:90%]
+.walletconnect.com
+.wallpaperflare.com
+.wallpapers.com # [SCAM:90%]
+.waptrick.com # [MALWARE:90%]
+.wareztorrent.com # [PIRACY:90%]
+.watchersweb.com # [MALWARE:90%]
+.wavebrowserbase.com # [MALWARE:90%]
+.wayfarerorthodox.com # [MALWARE:90%]
+.wcostream.com
+.weatherextension.com # [MALWARE:90%]
+.webbankir.com # [SCAM:90%]
+.webcindario.com # [MALWARE:90%]
+.webcompanion.com # [SCAM:90%]
+.webcrawler.com # [MALWARE:90%]
+.webcric.com # [MALWARE:90%]
+.webgains.com
+.webmasterplan.com
+.webramz.com # [MALWARE:90%]
+.weebcentral.com
+.wefi.com # [MALWARE:90%]
+.wegotthiscovered.com
+.weirdopt.com # [MALWARE:90%]
+.well.com
+.whimsical.com
+.whomeenoaglauns.com
+.wialon.com # [MALWARE:90%]
+.wifelovers.com # [MALWARE:90%]
+.wifi4games.com
+.wikaba.com # [MALWARE:90%]
+.wildtangent.com # [MALWARE:90%]
+.winloot.com
+.woobox.com
+.woopra.com
+.workflowy.com
+.workupload.com # [MALWARE:90%]
+.worldsex.com # [MALWARE:90%]
+.worthyboxersympathy.com # [MALWARE:90%]
+.wow.com # [MALWARE:90%]
+.wow-i-get-push.com # [MALWARE:90%]
+.wowroms.com # [SCAM:90%]
+.wpadmngr.com # [SCAM:90%]
+.wpnsrv.com # [MALWARE:90%]
+.wpshsdk.com # [MALWARE:90%]
+.wpushorg.com # [MALWARE:90%]
+.wpushsdk.com # [MALWARE:90%]
+.wshopon.com # [SCAM:90%]
+.wuporg.com # [SCAM:90%]
+.www.com # [MALWARE:90%]
+.x24hr.com # [SCAM:90%]
+.x3os.com # [MALWARE:90%]
+.xad.com # [MALWARE:90%]
+.xervcwfsk.com
+.xg4ken.com
+.xiti.com
+.xlivrdr.com # [MALWARE:90%]
+.xlovecam.com # [MALWARE:90%]
+.xn--h10b90bbmq49b63sq4e.com # [SCAM:90%]
+.xoalt.com # [MALWARE:90%]
+.xoom.com # [SCAM:90%]
+.xrea.com
+.xxuz.com # [MALWARE:90%]
+.xxx.com # [MALWARE:90%]
+.xxxviijmp.com # [MALWARE:90%]
+.xxxx.com # [MALWARE:90%]
+.yahoo.com # [SEARCH:40%]
+.yasdl.com
+.ycxrl.com
+.yellowbot.com # [SCAM:90%]
+.yep.com # [MALWARE:90%]
+.yesgwyn.com # [MALWARE:90%]
+.yesmail.com # [MALWARE:90%]
+.yidio.com
+.yieldlove.com # [MALWARE:90%]
+.yieldmo.com # [MALWARE:90%]
+.yieldoptimizer.com # [MALWARE:90%]
+.ymcart.com
+.ymtracking.com # [MALWARE:90%]
+.yotpo.com
+.youradexchange.com # [MALWARE:90%]
+.yourbittorrent.com # [PIRACY:90%]
+.yoursite.com # [MALWARE:90%]
+.yunduns.com # [SCAM:90%]
+.yunnx.com
+.zabasearch.com # [MALWARE:90%]
+.zanox.com
+.zenhotels.com # [SCAM:90%]
+.ziffdavis.com # [MALWARE:90%]
+.ziperto.com
+.zippyshare.com
+.ziprecruiter.com
+.zonos.com
+.zoojoujoaseeh.com # [MALWARE:90%]
+.zoominfo.com # [MALWARE:90%]
+.ztomy.com # [MALWARE:90%]
+.zztfly.com # [SCAM:90%]
+.vibe.community # [PIRACY:90%]
+.hianime.cx
+.corrumpskeptic.cyou # [MALWARE:90%]
+.faggedwahoo.cyou
+.csfd.cz
+.toplist.cz
+.volny.cz # [MALWARE:90%]
+.soap2day.day
+.abload.de
+.acxx.de
+.adscale.de # [MALWARE:90%]
+.adspirit.de # [MALWARE:90%]
+.adtech.de
+.animexx.de
+.ck-modelcars.de # [SCAM:90%]
+.emsservice.de # [MALWARE:90%]
+.etracker.de
+.gmxhome.de # [MALWARE:90%]
+.govalue.de
+.kundencontroller.de # [MALWARE:90%]
+.picclick.de
+.sqrt-5041.de # [SCAM:90%] WARN:ExcessiveDigits
+.supersrv.de # [MALWARE:90%]
+.uraniumhexafluori.de
+.vodafone.de
+.monu.delivery # [MALWARE:90%]
+.animexin.dev
+.comick.dev
+.massgrave.dev
+.bit.do # [MALWARE:90%]
+.telegram.dog # [CHAT:40%]
+.wso2.download
+.kinogo.ec # [SCAM:90%]
+.uakinogo.ec
+.uvm.edu
+.google.ee # [SEARCH:40%]
+.paste.ee
+.upload.ee # [MALWARE:90%]
+.minia.edu.eg # [EDUCATION:40%]
+.elcorreogallego.es
+.esy.es # [MALWARE:90%]
+.hol.es # [MALWARE:90%]
+.miravia.es # [SCAM:90%]
+.terra.es # [MALWARE:90%]
+.unizar.es
+.uva.es # [MALWARE:90%]
+.wanadoo.es # [MALWARE:90%]
+.bollyflix.esq
+.google.com.et # [SEARCH:40%]
+.amazonlogistics.eu
+.escortnews.eu # [MALWARE:90%]
+.jpopsuki.eu # [PIRACY:90%]
+.martin-gebhardt.eu
+.myshn.eu # [MALWARE:90%]
+.sktorrent.eu # [PIRACY:90%]
+.delta.exchange # [SCAM:90%]
+.earn.fm
+.openai.fm # [MALWARE:90%]
+.z-lib.fm
+.balancetanude.fr # [SCAM:90%]
+.beauteprivee.fr # [SCAM:90%]
+.cadremploi.fr
+.deporvillage.fr # [SCAM:90%]
+.pkup.fr # [SCAM:90%]
+.psyco.fr
+.romstation.fr
+.unblog.fr
+.urlz.fr # [MALWARE:90%]
+.weborama.fr # [MALWARE:90%]
+.aviaonline.fun
+.limetorrents.fun
+.oast.fun # [MALWARE:90%]
+.piratbit.fun
+.strem.fun
+.cashflow.fund # [SCAM:90%]
+.bc.game # [SCAM:90%]
+.tonpick.game # [SCAM:90%]
+.cineby.gd
+.hdhub4u.gd
+.work.gd # [MALWARE:90%]
+.clean.gg # [MALWARE:90%]
+.gg.gg # [MALWARE:90%]
+.google.gg # [SEARCH:40%]
+.netmirror.gg
+.nulls.gg
+.tradeit.gg # [SCAM:90%]
+.google.com.gi # [SEARCH:40%]
+.adman.gr
+.kinox.gr
+.vegamovies.gripe
+.google.com.gt # [SEARCH:40%]
+.harvardslubby.help
+.prf.hn # [MALWARE:90%]
+.fzmovies.host
+.pq.hosting
+.vegamovies.hot
+.filmyfly.how
+.alza.hu # [SCAM:90%]
+.euronics.hu
+.unair.ac.id # [MALWARE:90%]
+.unja.ac.id
+.gianyarkab.go.id # [MALWARE:90%]
+.gogogo.id # [MALWARE:90%]
+.lynk.id
+.idola.net.id
+.orderonline.id # [MALWARE:90%]
+.s.id
+.z-lib.id # [SCAM:90%]
+.amazon.ie # [SHOPPING:40%]
+.iol.ie
+.ono.ac.il
+.evan.im
+.strikeout.im
+.vipleague.im
+.altin.in
+.bajajfinserv.in
+.bstsrs.in
+.adgebra.co.in # [MALWARE:90%]
+.freebitco.in # [SCAM:90%]
+.freer.in # [SCAM:90%]
+.freetron.in # [SCAM:90%]
+.hificode.in
+.luciferdonghua.in
+.modlist.in
+.mods4u.in
+.tvseries.in
+.xalaflix.in
+.kinogo.inc
+.abcvg.info
+.audiotouch.info # [MALWARE:90%]
+.burningpushing.info # [MALWARE:90%]
+.echonverforrinho.info # [MALWARE:90%]
+.elsewhere.info
+.epicunitscan.info # [MALWARE:90%]
+.ghabovethec.info # [MALWARE:90%]
+.hologydenoughta.info # [MALWARE:90%]
+.limetorrents.info # [PIRACY:90%]
+.microsql-update.info # [PHISHING:40%]
+.mymom.info # [SCAM:90%]
+.myz.info # [MALWARE:90%]
+.nnm-club.info
+.nzbgeek.info
+.oplata.info # [MALWARE:90%]
+.pectationselea.info # [SCAM:90%]
+.rutor.info # [PIRACY:90%]
+.showrss.info
+.tokyotosho.info # [PIRACY:90%]
+.topstreams.info
+.torrentdownload.info # [PIRACY:90%]
+.torrentsnipe.info
+.vider.info
+.mez.ink # [GOVERNMENT:90%]
+.pahe.ink
+.1rx.io # [MALWARE:90%]
+.a2zapk.io
+.adalliance.io # [MALWARE:90%]
+.adapex.io # [MALWARE:90%]
+.adjust.io
+.adnami.io # [MALWARE:90%]
+.airbrake.io
+.apktodo.io
+.arminius.io # [MALWARE:90%]
+.atomicwallet.io # [MALWARE:90%]
+.bandishare.io
+.bigwarp.io # [SCAM:90%]
+.bnbpick.io # [SCAM:90%]
+.cdpn.io
+.cex.io # [SCAM:90%]
+.coinzilla.io # [MALWARE:90%]
+.concert.io # [MALWARE:90%]
+.coreservice.io
+.corsproxy.io # [MALWARE:90%]
+.cuty.io # [GOVERNMENT:90%]
+.dogepick.io # [SCAM:90%]
+.doodcdn.io
+.driverpack.io # [MALWARE:90%]
+.filelist.io # [PIRACY:90%]
+.firstimpression.io # [MALWARE:90%]
+.gofile.io # [MALWARE:90%]
+.guard.io # [MALWARE:90%]
+.holax.io # [MALWARE:90%]
+.indown.io
+.infura-ipfs.io
+.ipfs.io
+.litepick.io # [SCAM:90%]
+.mailtrack.io # [MALWARE:90%]
+.mangapoisk.io
+.metropolis.io # [SCAM:90%]
+.nicepage.io
+.onice.io # [SCAM:90%]
+.opentracker.io
+.optad360.io # [MALWARE:90%]
+.packetshare.io # [SCAM:90%]
+.pen.io # [MALWARE:90%]
+.polpick.io # [SCAM:90%]
+.polyfill.io # [MALWARE:90%]
+.powr.io
+.pubwise.io # [MALWARE:90%]
+.qrfy.io
+.rdtk.io # [MALWARE:90%]
+.realtimely.io # [MALWARE:90%]
+.rustdesk.io
+.safebrowse.io # [MALWARE:90%]
+.socialplug.io # [SCAM:90%]
+.solpick.io # [SCAM:90%]
+.strem.io
+.subscribepage.io # [GOVERNMENT:90%]
+.top4top.io # [SCAM:90%]
+.ttrk.io # [MALWARE:90%]
+.usdpick.io # [SCAM:90%]
+.webcatalog.io
+.asiatech.ir # [SCAM:90%]
+.jadvalyab.ir
+.ntsw.ir # [SCAM:90%]
+.post.ir # [SCAM:90%]
+.soft98.ir # [MALWARE:90%]
+.tiktokmusics.ir # [SCAM:90%]
+.demonoid.is # [PIRACY:90%]
+.moviesjoy.is # [MALWARE:90%]
+.rutor.is # [PIRACY:90%]
+.swatchseries.is
+.angolotesti.it # [MALWARE:90%]
+.asem.it # [MALWARE:90%]
+.isprambiente.gov.it # [MALWARE:90%]
+.istole.it
+.f95zone.to.it # [SCAM:90%]
+.toyscenter.it # [SCAM:90%]
+.google.jo # [SEARCH:40%]
+.adingo.jp # [MALWARE:90%]
+.bbexcite.jp # [MALWARE:90%]
+.navitime.co.jp # [MALWARE:90%]
+.gmatch.jp
+.jivo-ce.jp
+.koipara.jp
+.microad.jp # [MALWARE:90%]
+.otomachi.jp
+.ragtag.jp
+.rentio.jp # [SCAM:90%]
+.sez.jp
+.zerocha.jp
+.msha.ke
+.ad4989.co.kr # [MALWARE:90%]
+.bigfile.co.kr # [MALWARE:90%]
+.kdisk.co.kr # [MALWARE:90%]
+.netinsight.co.kr # [MALWARE:90%]
+.kro.kr # [MALWARE:90%]
+.51.la # [MALWARE:90%] WARN:ExcessiveDigits
+.lookmovie2.la
+.vipbox.lc # [MALWARE:90%]
+.annas-archive.li
+.libgen.li
+.readcomiconline.li # [MALWARE:90%]
+.utorrent.li # [PIRACY:90%]
+.routerpp.life
+.eth.limo # [SCAM:90%]
+.bio.link
+.convers.link # [MALWARE:90%]
+.ilcorsaronero.link
+.jaga.link
+.nftstorage.link
+.o18.link # [MALWARE:90%] WARN:ExcessiveDigits
+.official.link # [GOVERNMENT:90%]
+.rpm-bin.link # [MALWARE:90%]
+.tawk.link
+.w3s.link # [GOVERNMENT:90%]
+.zog.link # [MALWARE:90%]
+.antitrojanwalls.live
+.fastcontent.live # [SCAM:90%]
+.oast.live # [MALWARE:90%]
+.stormshade84.live
+.vidoy.live
+.fs8.lol
+.notube.lol # [SCAM:90%]
+.google.co.ls # [SEARCH:40%]
+.yts.lt # [PIRACY:90%]
+.youtubemp3.ltd
+.audiobookbay.lu
+.bovada.lv # [MALWARE:90%]
+.adf.ly
+.bit.ly
+.count.ly
+.cutt.ly # [MALWARE:90%]
+.ht.ly
+.hubs.ly # [GOVERNMENT:90%]
+.ow.ly # [MALWARE:90%]
+.snip.ly # [MALWARE:90%]
+.2m.ma # WARN:ExcessiveDigits
+.lu.ma
+.skymovieshd.mba
+.aarsen.me
+.blinq.me
+.emuparadise.me
+.epider.me
+.flavors.me
+.google.me # [SEARCH:40%]
+.igli.me # [MALWARE:90%]
+.jali.me
+.kuyhaa.me
+.loopme.me # [MALWARE:90%]
+.mrqz.me
+.mssg.me
+.oast.me # [MALWARE:90%]
+.online-fix.me
+.passthepopcorn.me # [PIRACY:90%]
+.randomuser.me # [MALWARE:90%]
+.seedit4.me
+.sitey.me # [MALWARE:90%]
+.start.me # [MALWARE:90%]
+.telegram.me # [CHAT:40%]
+.tfile.me # [MALWARE:90%]
+.thedise.me
+.upeer.me
+.vidmoly.me
+.vidsrc.me
+.website3.me
+.andbeyond.media # [MALWARE:90%]
+.convrse.media # [MALWARE:90%]
+.showbox.media
+.underdog.media # [MALWARE:90%]
+.bollyflix.miami
+.google.ml # [SEARCH:40%]
+.manga.mn
+.inner-active.mobi
+.anidex.moe # [PIRACY:90%]
+.bangumi.moe # [PIRACY:90%]
+.catbox.moe # [PIRACY:90%]
+.leet-tracker.moe # [ADS:40%]
+.cs.money # [SCAM:90%]
+.1drv.ms # [MALWARE:90%]
+.admin-mcas-df.ms # [MALWARE:90%]
+.mercadopago.com.mx
+.yts.mx # [PIRACY:90%]
+.cnt.my # [MALWARE:90%]
+.filmix.my # [SCAM:90%]
+.frdl.my
+.0123movie.net # WARN:ExcessiveDigits
+.123moviesfree.net
+.2mdn.net
+.2o7.net # [ADS:40%] WARN:ExcessiveDigits
+.3322.net # [MALWARE:90%] WARN:ExcessiveDigits
+.9minecraft.net # [MALWARE:90%]
+.ad-delivery.net # [MALWARE:90%]
+.ad-srv.net # [MALWARE:90%]
+.adglare.net # [MALWARE:90%]
+.adhigh.net # [MALWARE:90%]
+.admixer.net # [MALWARE:90%]
+.adnxs.net # [MALWARE:90%]
+.adsafety.net # [MALWARE:90%]
+.adzerk.net
+.aebn.net # [MALWARE:90%]
+.agava.net # [MALWARE:90%]
+.all4nothin.net # [PIRACY:90%]
+.animeflv.net
+.ankergames.net
+.anrdoezrs.net # [MALWARE:90%]
+.apirouting.net # [MALWARE:90%]
+.ar-io.net
+.arweave.net
+.aso1.net # [MALWARE:90%]
+.atomex.net # [MALWARE:90%]
+.bangcdn.net # [MALWARE:90%]
+.bbtec.net # [MALWARE:90%]
+.besttoolbars.net # [MALWARE:90%]
+.betteranime.net # [SCAM:90%]
+.bidswitch.net
+.bootcdn.net # [MALWARE:90%]
+.buildertrend.net
+.buysellads.net # [MALWARE:90%]
+.carapax.net
+.carbonads.net
+.castradio.net # [PIRACY:90%]
+.ccm.net # [SCAM:90%]
+.cdmon.net # [SCAM:90%]
+.cdnpk.net # [SCAM:90%]
+.changeip.net # [SCAM:90%]
+.chartbeat.net
+.circleftp.net
+.cjb.net # [MALWARE:90%]
+.clickadu.net # [MALWARE:90%]
+.clickbank.net # [MALWARE:90%]
+.cojokouwheez.net
+.comodo.net # [MALWARE:90%]
+.computeruniverse.net # [SCAM:90%]
+.connexity.net # [MALWARE:90%]
+.contaboserver.net # [MALWARE:90%]
+.creatorlink.net # [MALWARE:90%]
+.cricfy.net # [MALWARE:90%]
+.crwdcntrl.net
+.dataforce.net # [MALWARE:90%]
+.discoveryftp.net
+.dotnxdomain.net # [MALWARE:90%]
+.doubleclick.net # [ADS:40%]
+.dpbolvw.net
+.e-planning.net
+.eexevaudraikair.net # [SCAM:90%]
+.eroterest.net # [MALWARE:90%]
+.everesttech.net
+.everyone.net # [MALWARE:90%]
+.exloader.net # [SCAM:90%]
+.ezoic.net # [MALWARE:90%]
+.fastclick.net
+.fdown.net
+.fex.net # [MALWARE:90%]
+.ffdns.net # [MALWARE:90%]
+.fireinfra.net # [SCAM:90%]
+.fmhy.net
+.fwmrm.net
+.gbatemp.net
+.genyt.net
+.grookilteepsou.net # [MALWARE:90%]
+.hackerbot.net
+.histoires-de-sexe.net # [MALWARE:90%]
+.hitx.net # [MALWARE:90%]
+.houmoowhaustoul.net
+.hqhost.net # [MALWARE:90%]
+.iflvopx.net
+.innity.net # [MALWARE:90%]
+.intermesh.net # [MALWARE:90%]
+.internet-start.net # [MALWARE:90%]
+.internetwarriors.net
+.ip-home.net # [MALWARE:90%]
+.ipbes.net # [MALWARE:90%]
+.ipsnews.net
+.jacquieetmichel.net # [SCAM:90%]
+.jkanime.net
+.kadam.net
+.katdrama.net
+.katworld.net
+.kinonadzor.net
+.lavishluck.net # [SCAM:90%]
+.ldplayer.net # [SCAM:90%]
+.letitbit.net
+.lidsaich.net # [MALWARE:90%]
+.linkomanija.net
+.lkqd.net # [MALWARE:90%]
+.m6.net # [MALWARE:90%] WARN:ExcessiveDigits
+.mangapark.net
+.media.net # [NEWS:40%]
+.microsoftinternetsafety.net # [MALWARE:90%]
+.moevideo.net # [MALWARE:90%]
+.myanonamouse.net # [PIRACY:90%]
+.mywavehome.net # [MALWARE:90%]
+.nameservices.net # [MALWARE:90%]
+.nedstatbasic.net
+.net.net # [MALWARE:90%]
+.new-line.net
+.nflxvideo.net
+.nhentai.net # [PIRACY:90%]
+.noscript.net
+.nzbplanet.net
+.oamsursumsauz.net # [MALWARE:90%]
+.oicp.net # [MALWARE:90%]
+.onclickads.net # [MALWARE:90%]
+.online-metrix.net
+.onlinedown.net # [MALWARE:90%]
+.onlinewebshop.net # [SCAM:90%]
+.pads289.net # [MALWARE:90%] WARN:ExcessiveDigits
+.parkingcrew.net # [MALWARE:90%]
+.payforessay.net # [SCAM:90%]
+.phillipoption.net # [SCAM:90%]
+.planetpush.net # [MALWARE:90%]
+.playmods.net
+.popads.net
+.popcash.net # [MALWARE:90%]
+.pornolab.net
+.pro-market.net # [MALWARE:90%]
+.protected.net # [MALWARE:90%]
+.ptugnins.net # [MALWARE:90%]
+.pubt.net
+.pushking.net # [MALWARE:90%]
+.pushtorm.net # [MALWARE:90%]
+.qksrv.net # [MALWARE:90%]
+.qo4.net # [MALWARE:90%]
+.rapidgator.net
+.redintelligence.net # [MALWARE:90%]
+.rfihub.net # [MALWARE:90%]
+.rghost.net # [MALWARE:90%]
+.romhacking.net
+.romsgames.net
+.rs6.net
+.rutracker.net
+.sancdn.net # [MALWARE:90%]
+.savetwitter.net
+.series2watch.net
+.sexinsex.net # [PIRACY:90%]
+.shaugacakro.net # [MALWARE:90%]
+.showboxmovies.net
+.shubt.net
+.simfileshare.net
+.sinacloud.net # [MALWARE:90%]
+.sktorrent.net
+.smaato.net # [MALWARE:90%]
+.sonic.net
+.sportsurge.net
+.statserv.net # [MALWARE:90%]
+.storysaver.net
+.strangled.net # [MALWARE:90%]
+.streamlock.net
+.strumyk.net
+.suddenlink.net # [MALWARE:90%]
+.sunproxy.net # [MALWARE:90%]
+.tapecontent.net
+.tapochek.net # [PIRACY:90%]
+.taringa.net
+.tftpd.net
+.thapcamtvz.net # [MALWARE:90%]
+.thefap.net
+.torrentbd.net # [PIRACY:90%]
+.trafficjunky.net # [MALWARE:90%]
+.turbobit.net # [MALWARE:90%]
+.twinfinite.net
+.uakino-bay.net
+.uceprotect.net
+.udmserve.net # [MALWARE:90%]
+.uidsync.net # [MALWARE:90%]
+.uimserv.net # [MALWARE:90%]
+.up-4ever.net
+.upd-rkn.net # [MALWARE:90%]
+.urbanint.net # [SCAM:90%]
+.uuidksinc.net # [MALWARE:90%]
+.vaimucuvikuwu.net # [MALWARE:90%]
+.veewheephime.net # [MALWARE:90%]
+.videoroll.net # [MALWARE:90%]
+.videzz.net
+.vidmate.net
+.vidmoly.net
+.vidoza.net
+.vimm.net
+.virgin.net # [MALWARE:90%]
+.wavebrowser.net # [MALWARE:90%]
+.wavesecure.net # [MALWARE:90%]
+.wavesecure2.net # [MALWARE:90%]
+.wearedevs.net # [SCAM:90%]
+.webair.net # [MALWARE:90%]
+.woafoame.net # [MALWARE:90%]
+.yieldlab.net
+.zamunda.net # [PIRACY:90%]
+.zaycev.net
+.zeekaihu.net # [MALWARE:90%]
+.zenon.net # [MALWARE:90%]
+.zonacraft.net
+.zophar.net
+.pub.network # [MALWARE:90%]
+.stripe.network # [MALWARE:90%]
+.seriezloaded.com.ng
+.lewd.ninja # [MALWARE:90%]
+.newsgroup.ninja
+.eddie4.nl # [PIRACY:90%]
+.eweka.nl
+.kinogo.no
+.viprow.nu
+.y2mate.nu
+.mega.co.nz # [FILESHARING:40%]
+.hianime.nz
+.mega.nz # [FILESHARING:40%]
+.asmr.one
+.gidonline.one
+.shikimori.one
+.telega.one # [MALWARE:90%]
+.aboutbeautifulgallopinghorsesinthegreenpasture.online
+.aj1985.online # [MALWARE:90%] WARN:ExcessiveDigits
+.aj1987.online # [MALWARE:90%] WARN:ExcessiveDigits
+.foggycrest91.online
+.justplaytv.online # [MALWARE:90%]
+.kinogo.online
+.porndownload.online # [SCAM:90%]
+.raindust78.online
+.shahidrazi.online
+.sunsetline07.online
+.torrentclub.online
+.uakinogo.online
+.vmwesa.online
+.windytrail24.online
+.1337x.org # WARN:ExcessiveDigits
+.3322.org # [MALWARE:90%] WARN:ExcessiveDigits
+.5play.org
+.8866.org # [MALWARE:90%] WARN:ExcessiveDigits
+.aafp.org
+.adsrvr.org # [MALWARE:90%]
+.anaconda.org
+.animekhor.org
+.animestars.org
+.animetosho.org # [PIRACY:90%]
+.anistar.org
+.annas-archive.org
+.anonymouse.org # [MALWARE:90%]
+.antsmarching.org
+.apkvision.org
+.archive.org
+.bigfangroup.org # [PIRACY:90%]
+.bitbucket.org
+.bnbchain.org
+.byrutgame.org
+.ccmixter.org
+.cdn-tnmr.org # [TECH:40%]
+.cdromance.org
+.concen.org # [PIRACY:90%]
+.constitution.org # [MALWARE:90%]
+.deluge-torrent.org # [PIRACY:40%]
+.dler.org # [PIRACY:90%]
+.doram-ru.org
+.e-hentai.org # [ADULT:40%]
+.ehtracker.org
+.ex-torrenty.org # [PIRACY:90%]
+.explodie.org # [PIRACY:90%]
+.fastrepo.org # [MALWARE:90%]
+.freedownloadmanager.org # [MALWARE:90%]
+.freeforums.org # [MALWARE:90%]
+.freetp.org
+.genesis-sp.org
+.getcomics.org
+.go2cloud.org # [MALWARE:90%]
+.greasyfork.org # [PIRACY:90%]
+.hola.org # [MALWARE:90%]
+.insecure.org # [MALWARE:90%]
+.iplogger.org # [MALWARE:90%]
+.itorrents-igruha.org
+.knaben.org
+.learner.org
+.leechers-paradise.org
+.libtorrent.org # [PIRACY:90%]
+.like4like.org # [SCAM:90%]
+.lumendatabase.org
+.mangadex.org
+.mangaread.org # [MALWARE:90%]
+.mbcej.org
+.mbdny.org
+.mbeaj.org
+.mbfpu.org
+.mbhiz.org
+.mbimg.org
+.mbmyj.org
+.mbopg.org
+.mbqgu.org
+.mbqtj.org
+.mbrtz.org
+.mbtba.org
+.mbtmv.org
+.mbuul.org
+.mbwbm.org
+.mbwnp.org
+.mbwww.org
+.mbxma.org
+.mbzcp.org
+.mbznp.org
+.mcpedl.org
+.mgtracker.org # [PIRACY:90%]
+.mininova.org # [PIRACY:90%]
+.mirrorservice.org # [MALWARE:90%]
+.mobilism.org
+.oocities.org
+.openai.org # [MALWARE:90%]
+.opentor.org # [PIRACY:90%]
+.opentrackr.org
+.oundhertobeconsist.org # [MALWARE:90%]
+.pastie.org # [MALWARE:90%]
+.pixiv.org # [MALWARE:90%]
+.popcorn-tracker.org # [ADS:40%]
+.prebid.org # [MALWARE:90%]
+.proxyninja.org # [MALWARE:90%]
+.qbittorrent.org # [PIRACY:90%]
+.rutor.org
+.rutracker.org # [PIRACY:90%]
+.seeders-paradise.org
+.showitoff.org
+.sitelike.org
+.softwareheritage.org
+.staticfile.org # [MALWARE:90%]
+.stoigr.org # [SCAM:90%]
+.subsplease.org # [PIRACY:90%]
+.t-rb.org
+.t-ru.org
+.thepiratebay.org # [PIRACY:90%]
+.thepiratebay0.org # [PIRACY:90%]
+.thetracker.org # [PIRACY:90%]
+.thetradersden.org # [PIRACY:90%]
+.torrentleech.org # [PIRACY:90%]
+.traccar.org
+.trustx.org # [MALWARE:90%]
+.turbopages.org # [SCAM:90%]
+.tvshows4mobile.org
+.uindex.org
+.violetscans.org
+.voirdrama.org
+.worldtimeapi.org # [MALWARE:90%]
+.zamusic.org # [MALWARE:90%]
+.chatbot.page # [MALWARE:90%]
+.scan.page # [GOVERNMENT:90%]
+.scanned.page # [SCAM:90%]
+.piratebay.party # [PIRACY:90%]
+.thepiratebay.party # [PIRACY:90%]
+.tpb.party # [PIRACY:90%]
+.bet4.pe # [SCAM:90%]
+.mercadopago.com.pe
+.putlocker.pe
+.soap2day.pe
+.watchseries.pe
+.google.com.pg # [SEARCH:40%]
+.coins.ph # [SCAM:90%]
+.sunstar.com.ph
+.telegra.ph
+.gfxdn.pics # [MALWARE:90%]
+.hdhub4u.pictures
+.spotifypremiumapk.pk # [SCAM:90%]
+.streamed.pk
+.adocean.pl
+.aletorrenty.pl # [PIRACY:90%]
+.cba.pl # [MALWARE:90%]
+.chomikuj.pl
+.docer.pl
+.ekino-tv.pl
+.electro-torrent.pl # [PIRACY:40%]
+.erodate.pl # [MALWARE:90%]
+.exsite.pl # [PIRACY:90%]
+.filetracker.pl # [PIRACY:90%]
+.gemius.pl
+.icpnet.pl # [MALWARE:90%]
+.komputerswiat.pl # [MALWARE:90%]
+.superhost.pl # [MALWARE:90%]
+.run.place # [SCAM:90%]
+.moviesjoy.plus
+.moviesmod.plus
+.zona.plus
+.vipleague.pm
+.bigwarp.pro
+.haildrop77.pro
+.happymod.pro
+.hashvault.pro # [SCAM:90%]
+.moonbot.pro # [MALWARE:90%]
+.online.pro # [MALWARE:90%]
+.siyahmelek.pro
+.tiktokmod.pro # [SCAM:90%]
+.torrentdownloads.pro # [PIRACY:90%]
+.ubar.pro # [MALWARE:90%]
+.ufiler.pro # [SCAM:90%]
+.vidfast.pro # [SCAM:90%]
+.webd.pro
+.sflix.ps
+.dokumen.pub
+.asnet.pw # [PIRACY:90%]
+.demonoid.pw # [PIRACY:90%]
+.glotorrents.pw # [PIRACY:90%]
+.vost.pw
+.itau.com.py # [SCAM:90%]
+.mec.edu.py # [EDUCATION:40%]
+.fancybox.qa
+.ketylclayen.qpon
+.adsco.re # [MALWARE:90%]
+.cli.re # [GOVERNMENT:90%]
+.hdhub4u.rehab
+.filmyfly.republican
+.frazergraces.rest
+.omegatootler.rest
+.acg.rip # [PIRACY:90%]
+.uhdmovies.rip
+.1gb.ru # [MALWARE:90%]
+.5mod.ru
+.6ahddutb1ucc3cp.ru
+.6yd.ru # [MALWARE:90%]
+.adriver.ru
+.androeed.ru
+.android-1.ru
+.appstorrent.ru
+.bget.ru # [MALWARE:90%]
+.ch3oh.ru
+.clck.ru # [MALWARE:90%]
+.coop-land.ru # [MALWARE:90%]
+.da.ru # [MALWARE:90%]
+.directadvert.ru # [MALWARE:90%]
+.engplus.ru # [PIRACY:90%]
+.fantlab.ru # [MALWARE:90%]
+.flex.ru # [MALWARE:90%]
+.fsk-ees.ru # [MALWARE:90%]
+.habrahabr.ru # [MALWARE:90%]
+.heroeswm.ru # [MALWARE:90%]
+.hosted-by-vdsina.ru # [MALWARE:90%]
+.hotlog.ru
+.ht-systems.ru # [MALWARE:90%]
+.infourok.ru # [MALWARE:90%]
+.konkurent.ru # [MALWARE:90%]
+.kpfu.ru
+.krebson.ru
+.kurganobl.ru # [MALWARE:90%]
+.labirint.ru
+.lifenews.ru # [MALWARE:90%]
+.list.ru # [MALWARE:90%]
+.melbet.ru # [SCAM:90%]
+.mobiletracking.ru # [MALWARE:90%]
+.msk-kvm.ru
+.nichost.ru # [MALWARE:90%]
+.nm.ru # [MALWARE:90%]
+.nnm.ru
+.ntvshara.ru # [MALWARE:90%]
+.okis.ru
+.onthestage.ru
+.profi-teh-remont.ru
+.qip.ru # [MALWARE:90%]
+.readcomicsonline.ru
+.rlsbb.ru
+.rubinix.ru
+.ruxox.ru
+.salator.ru # [MALWARE:90%]
+.sape.ru # [MALWARE:90%]
+.sci-hub.ru
+.seasonvar.ru
+.selstorage.ru # [MALWARE:90%]
+.servandroidkino.ru
+.smotret-video.ru # [SCAM:90%]
+.softonic.ru
+.swtest.ru # [MALWARE:90%]
+.terrhq.ru # [MALWARE:90%]
+.tlauncher.ru
+.trychatgpt.ru # [MALWARE:90%]
+.v2z.ru
+.valuehost.ru # [MALWARE:90%]
+.vidsrc-embed.ru
+.vihub.ru # [MALWARE:90%]
+.vkontakte.ru # [GOVERNMENT:90%]
+.vkserfing.ru # [SCAM:90%]
+.webnames.ru # [MALWARE:90%]
+.xsph.ru # [MALWARE:90%]
+.yadro.ru
+.katmoviehd.run
+.ln.run # [GOVERNMENT:90%]
+.acgnx.se # [PIRACY:90%]
+.annas-archive.se
+.sci-hub.se
+.thepiratebay.se # [PIRACY:90%]
+.aegir.sexy
+.zaobao.com.sg # [MALWARE:90%]
+.dub.sh # [GOVERNMENT:90%]
+.flixer.sh
+.infrapu.sh # [MALWARE:90%]
+.wpu.sh # [MALWARE:90%]
+.abamawristed.shop # [MALWARE:90%]
+.agingsblk.shop # [MALWARE:90%]
+.barmanonymity.shop # [MALWARE:90%]
+.belahastile.shop
+.belickzoeae.shop # [MALWARE:90%]
+.birdeyecherty.shop # [MALWARE:90%]
+.calashtidi.shop # [MALWARE:90%]
+.elocutecowbarn.shop # [MALWARE:90%]
+.epochsvulgare.shop
+.handoutawmbrie.shop # [MALWARE:90%]
+.inkingssheer.shop # [MALWARE:90%]
+.jayantwhaling.shop
+.leafboyaggress.shop # [MALWARE:90%]
+.logcockpiperno.shop # [MALWARE:90%]
+.midbodyritz.shop # [MALWARE:90%]
+.midlegvaliant.shop # [MALWARE:90%]
+.minaeanhern.shop # [MALWARE:90%]
+.mistermgermens.shop # [MALWARE:90%]
+.musculeyautias.shop # [MALWARE:90%]
+.poohpeachen.shop # [MALWARE:90%]
+.pureelandage.shop # [MALWARE:90%]
+.ramekinicotype.shop # [MALWARE:90%]
+.skiechottar.shop # [MALWARE:90%]
+.snailnighs.shop # [MALWARE:90%]
+.soberspanner.shop # [MALWARE:90%]
+.solidlypall.shop # [MALWARE:90%]
+.spangeddonny.shop # [MALWARE:90%]
+.subbasebiggest.shop # [MALWARE:90%]
+.teopantrivant.shop # [MALWARE:90%]
+.tiffanybuvette.shop # [MALWARE:90%]
+.topworkredbay.shop # [MALWARE:90%]
+.unfattybeveled.shop # [MALWARE:90%]
+.untirescotoma.shop # [MALWARE:90%]
+.vanillemuckily.shop # [MALWARE:90%]
+.viceroysebasic.shop # [MALWARE:90%]
+.nyaa.si # [PIRACY:90%]
+.stealth.si
+.baappfvzxdx.site
+.bunkr.site # [SCAM:90%]
+.dodi-repacks.site # [PIRACY:40%]
+.fitgirl-repacks.site # [PIRACY:40%]
+.hailglow59.site
+.iothings.site # [SCAM:90%]
+.mobiletvshows.site
+.openaicommunities.site # [MALWARE:90%]
+.rainfallpath36.site
+.stormcurve61.site
+.stormwhirl73.site
+.sunhaze44.site
+.temporary.site # [MALWARE:90%]
+.thepibay.site
+.webhook.site # [MALWARE:90%]
+.windcurve65.site
+.box.sk # [FILESHARING:40%]
+.host.sk # [MALWARE:90%]
+.streameast.sk
+.vipboxtv.sk
+.z-library.sk # [EDUCATION:40%]
+.movies4u.sl
+.attackertv.so
+.notion.so
+.comicaso.space
+.hesgoal-tv.space
+.link.space # [GOVERNMENT:90%]
+.playeverlustinglife.space # [MALWARE:90%]
+.1337x.st # [PIRACY:90%] WARN:ExcessiveDigits
+.extratorrent.st
+.lulu.st
+.pca.st
+.androeed.store
+.googll.store
+.pcapp.store # [MALWARE:90%]
+.drp.su # [MALWARE:90%]
+.nzb.su
+.sirus.su # [MALWARE:90%]
+.test-hf.su # [MALWARE:90%]
+.demand.supply # [MALWARE:90%]
+.google.com.sv # [SEARCH:40%]
+.filemoon.sx # [SCAM:90%]
+.goku.sx
+.himovies.sx
+.livetv.sx
+.roksa.sx # [MALWARE:90%]
+.voe.sx
+.google.td # [SEARCH:40%]
+.beget.tech # [MALWARE:90%]
+.ducks.tel
+.primewire.tf
+.coppersurfer.tk
+.google.tn # [SEARCH:40%]
+.1337x.to # [PIRACY:90%] WARN:ExcessiveDigits
+.1337xx.to # [SCAM:90%] WARN:ExcessiveDigits
+.1377x.to # [MALWARE:90%] WARN:ExcessiveDigits
+.1flix.to
+.4pda.to
+.9animetv.to # [MALWARE:90%]
+.animekai.to
+.aniwatchtv.to # [MALWARE:90%]
+.aniworld.to
+.arc018.to # WARN:ExcessiveDigits
+.avistaz.to
+.bitsearch.to
+.bs.to
+.cataz.to
+.come.to
+.dopebox.to # [MALWARE:90%]
+.ev01.to # WARN:ExcessiveDigits
+.ext.to # [PIRACY:90%]
+.eztvx.to
+.fanlink.to
+.ffm.to
+.filemoon.to
+.filmehd.to
+.flixhq.to # [MALWARE:90%]
+.flixtor.to
+.freehdmovies.to
+.goojara.to
+.hdtodayz.to # [MALWARE:90%]
+.hianime.to
+.kaido.to # [MALWARE:90%]
+.katcr.to # [PIRACY:90%]
+.kickasstorrents.to # [PIRACY:90%]
+.lookmovie2.to
+.mangafire.to # [MALWARE:90%]
+.moviesjoytv.to
+.myflixerz.to # [MALWARE:90%]
+.nnmclub.to # [PIRACY:90%]
+.pdalife.to
+.rarbg.to # [PIRACY:90%]
+.rarbggo.to
+.rargb.to
+.s.to
+.serienstream.to
+.sflix2.to
+.streamwish.to
+.strmup.to
+.supernova.to
+.tawk.to
+.theflixertv.to # [MALWARE:90%]
+.thepiratebay3.to # [PIRACY:90%]
+.ti.to
+.toloka.to
+.torrent9.to # [PIRACY:90%]
+.torrentbay.to # [PIRACY:90%]
+.vanced.to
+.veev.to
+.welcome.to
+.yflix.to
+.zer0day.to # [PIRACY:90%]
+.tiktokio.tools # [SCAM:90%]
+.autoeq.top # [MALWARE:90%]
+.bambosunsash.top
+.bestcontentfood.top # [MALWARE:90%]
+.castorsperron.top # [MALWARE:90%]
+.ckuvjtwp2.top
+.deignsaspalax.top # [MALWARE:90%]
+.filmyfiy.top
+.frettchorten.top # [MALWARE:90%]
+.gloggsbursula.top # [MALWARE:90%]
+.hardpanenvois.top # [MALWARE:90%]
+.hatcherplume.top # [MALWARE:90%]
+.hcfpiss.top # [MALWARE:90%]
+.highteahop.top
+.hurlybegaud.top # [MALWARE:90%]
+.ldbot.top # [MALWARE:90%]
+.leaklentisk.top # [MALWARE:90%]
+.nasaliscedens.top
+.okpool.top
+.proserfogman.top # [MALWARE:90%]
+.ptukseew.top
+.replevysquab.top # [MALWARE:90%]
+.saicedevours.top # [MALWARE:90%]
+.satinayapii.top # [MALWARE:90%]
+.slabberfleeced.top # [MALWARE:90%]
+.slowedaurums.top # [MALWARE:90%]
+.stummelguider.top
+.swivingtaggers.top # [MALWARE:90%]
+.tallatesics.top # [MALWARE:90%]
+.thewsere.top # [MALWARE:90%]
+.usesduffy.top
+.websalat.top # [MALWARE:90%]
+.oxtorrent.town
+.konya.bel.tr # [MALWARE:90%]
+.ge.tt # [MALWARE:90%]
+.y2meta.tube # [MALWARE:90%]
+.24h.tv # WARN:ExcessiveDigits
+.adap.tv
+.affec.tv # [MALWARE:90%]
+.einthusan.tv # [PIRACY:90%]
+.extend.tv # [MALWARE:90%]
+.fawesome.tv
+.hdrezka-home.tv
+.hotmoza.tv # [SCAM:90%]
+.javmix.tv
+.kinozal.tv
+.labtor.tv
+.lostfilm.tv # [PIRACY:90%]
+.movies2watch.tv # [MALWARE:90%]
+.nativeroll.tv # [MALWARE:90%]
+.onhockey.tv
+.parliamentlive.tv
+.ridomovies.tv
+.roshy.tv
+.simpsonsua.tv
+.wco.tv
+.wcostream.tv
+.xprime.tv
+.0rz.tw
+.1337x.tw # [PIRACY:90%] WARN:ExcessiveDigits
+.emax.net.tw # [MALWARE:90%]
+.hit.ua
+.anitube.in.ua
+.vam.ac.uk
+.buny.uk
+.adskeeper.co.uk # [MALWARE:90%]
+.audible.co.uk
+.host-it.co.uk # [MALWARE:90%]
+.montessorijobsuk.co.uk # [SCAM:90%]
+.picclick.co.uk
+.smartsurvey.co.uk
+.webeden.co.uk # [SCAM:90%]
+.websitehome.co.uk # [MALWARE:90%]
+.wowcher.co.uk
+.amung.us # [MALWARE:90%]
+.cutt.us
+.onlinehome.us # [SCAM:90%]
+.pickbon.us # [MALWARE:90%]
+.stake.us
+.track718.us # [SCAM:90%]
+.itau.com.uy
+.mercadolibre.com.uy
+.mercadopago.com.uy
+.ashdi.vip
+.bmovies.vip
+.kinovibe.vip
+.megapeer.vip
+.opora.vip
+.xmlkdzbz.vip
+.ymovies.vip
+.bidv.vn # [SCAM:90%]
+.eclick.vn # [MALWARE:90%]
+.fshare.vn
+.laban.vn # [MALWARE:90%]
+.hesgoal.watch
+.bklihaatruags.website
+.instasave.website
+.eztv.wf # [PIRACY:90%]
+.dewpoint34.wiki
+.frostshine12.wiki
+.icemist80.wiki
+.lightbeam83.wiki
+.mistflare33.wiki
+.desalpes.world # [SCAM:90%]
+.eonismloaning.world # [MALWARE:90%]
+.igram.world
+.unblockedgames.world
+.bitly.ws # [SHORTENER:40%]
+.geocities.ws
+.kickass.ws
+.nzbfinder.ws
+.vide.ws
+.0d497620a8c86db072d9cee90fb04e2e751fd8bb5c132125380e50df.xyz # WARN:ExcessiveDigits
+.bjoczmmsgi.xyz # [MALWARE:90%]
+.btorrent.xyz # [PIRACY:90%]
+.fogtwist21.xyz
+.get-my-push.xyz # [MALWARE:90%]
+.gjwzcwfgxn.xyz # [SCAM:90%]
+.liheiat.xyz
+.publictracker.xyz # [PIRACY:90%]
+.rainveil36.xyz
+.realsh.xyz # [MALWARE:90%]
+.revebonlo.xyz # [MALWARE:90%]
+.rollserver.xyz # [MALWARE:90%]
+.rovno.xyz # [MALWARE:90%]
+.tracker810.xyz
+.trackerlist.xyz
+.yomeno.xyz # [MALWARE:90%]
+.kinogoo.zone
+.thepiratebay.zone # [PIRACY:90%]

@@ -1,0 +1,71 @@
+==================================================
+          MAKE-LIST ANALYTICS REPORT
+==================================================
+
+### Top 20 Domains (Most Frequent in Sources) ###
+    2 | 500lovemakingtips.com
+    2 | abellalist.com
+    2 | connect.acspubs.org
+    2 | addwish.com
+    2 | adultdatelink.com
+    2 | adultmoneymakers.com
+    2 | adultporn.tv
+    2 | adultrevenueservice.com
+    2 | adultsclips.com
+    2 | all-usanomination.com
+    2 | arabtoons.net
+    2 | arabxforum.com
+    2 | artcomix.com
+    2 | users.atw.hu
+    2 | avantajados.com
+    2 | beeglivesex.com
+    2 | big7.com
+    2 | bigbangempire.com
+    2 | bigpenisguide.com
+    2 | bil.su
+
+### Top 20 Keyword Labels ###
+  3519 | smetrics
+  3323 | analytics
+  2943 | com
+  1920 | cloudfront
+  1751 | metrics
+  1373 | cdn
+  1345 | omtrdc
+  1207 | ads
+  1081 | sgtm
+  1016 | matomo
+  1006 | optimizely
+   663 | stats
+   659 | run
+   538 | sentry
+   517 | tracking
+   477 | data
+   470 | plausible
+   430 | utiq
+   381 | api
+   356 | log
+
+### Top 20 Effective 2LDs (Root Domains) ###
+  1345 | omtrdc.net
+  1005 | optimizely.com
+   605 | a.run.app
+   304 | px-cloud.net
+   290 | adobedc.net
+   237 | 2o7.net
+   208 | vivoglobal.com
+   192 | xiaomi.com
+   188 | itch.io
+   179 | tiktokv.com
+   178 | amazon-adsystem.com
+   164 | qq.com
+   121 | marketo.com
+   113 | perimeterx.net
+   105 | baidu.com
+   104 | gemius.pl
+   104 | heytapdl.com
+   100 | miui.com
+    90 | live.com
+    85 | fwmrm.net
+
+Total Unique Blocked Domains: 241062

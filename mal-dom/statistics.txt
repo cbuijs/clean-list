@@ -1,0 +1,71 @@
+==================================================
+          MAKE-LIST ANALYTICS REPORT
+==================================================
+
+### Top 20 Domains (Most Frequent in Sources) ###
+    7 | mitreart.com
+    7 | skillnorequired.cc
+    7 | support.clz.kr
+    6 | 111101111.ru
+    6 | access.skaparade.com
+    6 | advustech.com
+    6 | ashaherq.com
+    6 | asl-company.ru
+    6 | at0micwallets.com
+    6 | bankgarantia.ru
+    6 | bfacollege.co.in
+    6 | book.rollingvideogames.com
+    6 | buckscountytaxattorney.com
+    6 | cdn.file6.goodid.com
+    6 | checkfivem.com
+    6 | clisi.digifors.de
+    6 | cnc.504.su
+    6 | crobel3.floresagapanto.cfd
+    6 | crystalpvp.ru
+    6 | csk.vietnamddns.com
+
+### Top 20 Keyword Labels ###
+330578 | www
+ 74360 | com
+ 49898 | blogspot
+ 37922 | duckdns
+ 31611 | webflow
+ 29145 | pages
+ 26900 | 000webhostapp
+ 20596 | weebly
+ 20068 | web
+ 18722 | vercel
+ 18366 | weeblysite
+ 18173 | github
+ 15255 | appspot
+ 11852 | firebaseapp
+ 10477 | mail
+  9729 | workers
+  9692 | allegrolokalnie
+  9585 | chatgpt
+  9404 | glitch
+  8147 | gitbook
+
+### Top 20 Effective 2LDs (Root Domains) ###
+ 26898 | 000webhostapp.com
+ 20595 | weebly.com
+ 18366 | weeblysite.com
+  9397 | glitch.me
+  7960 | godaddysites.com
+  7265 | ey.r.appspot.com
+  6617 | besthotelscolorado.com
+  6524 | qwo231sdx.club
+  4828 | ipfs.dweb.link
+  4136 | wesvirgin.com
+  3524 | neliver.com
+  3049 | 2o7.net
+  2569 | co.vu
+  2488 | uk.r.appspot.com
+  2344 | blogspot.sn
+  2321 | xsph.ru
+  2289 | swtest.ru
+  2248 | cz.cc
+  2216 | windows.net
+  2190 | webcindario.com
+
+Total Unique Blocked Domains: 3183951

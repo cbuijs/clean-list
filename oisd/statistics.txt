@@ -1,0 +1,71 @@
+==================================================
+          MAKE-LIST ANALYTICS REPORT
+==================================================
+
+### Top 20 Domains (Most Frequent in Sources) ###
+    2 | 00sexus.com
+    2 | 00webcams.com
+    2 | 03e.info
+    2 | 06653176.3cdfee8c7de5b45e217124db.workers.dev
+    2 | 100023.live173.com
+    2 | 10022020newfolder1002002131-service1002.space
+    2 | 10022020test41-service100201pro2510022020.ru
+    2 | 10022020test481-service1002012510022020.ru
+    2 | 10022020tostest371-service1002012510022020.ru
+    2 | 10022020uest71-service100201dom2510022020.ru
+    2 | 10022020utest1341-service1002012510022020.ru
+    2 | 10022020yes1t3481-service1002012510022020.ru
+    2 | 10022020yest31-service100201rus2510022020.ru
+    2 | 10022020yirtest231-service1002012510022020.ru
+    2 | 10022020yomtest251-service1002012510022020.ru
+    2 | 105vibe.com
+    2 | 121phonesex.co.uk
+    2 | 123any.com
+    2 | 12cams.be
+    2 | 1337x.org
+
+### Top 20 Keyword Labels ###
+ 53667 | blogspot
+  8686 | pages
+  7617 | com
+  5460 | free
+  3346 | weebly
+  2639 | itch
+  2219 | web
+  1999 | firebaseapp
+  1839 | over-blog
+  1780 | 2o7
+  1565 | cloudfront
+  1342 | 112
+  1013 | ply
+   972 | ipfs
+   972 | dweb
+   760 | ads
+   667 | webcindario
+   649 | vercel
+   570 | analytics
+   450 | duckdns
+
+### Top 20 Effective 2LDs (Root Domains) ###
+  5423 | free.fr
+  3346 | weebly.com
+  2639 | itch.io
+  1779 | 2o7.net
+  1772 | over-blog.com
+   999 | gl.at.ply.gg
+   962 | ipfs.dweb.link
+   667 | webcindario.com
+   306 | myvzw.com
+   279 | neocities.org
+   251 | wordpress.com
+   245 | qq.com
+   223 | godaddysites.com
+   206 | zendesk.com
+   203 | start.page
+   192 | beget.tech
+   177 | telekom.hu
+   163 | gemius.pl
+   161 | tripod.com
+   156 | myportfolio.com
+
+Total Unique Blocked Domains: 575672
